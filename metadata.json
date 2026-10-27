@@ -1,0 +1,6 @@
+{
+  "name": "Campus Assistant - VLITS R23",
+  "description": "Standalone AI chatbot for Vignan's Lara Institute of Technology & Science (VLITS) B.Tech R23 Academic Regulations, course structure, and syllabus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

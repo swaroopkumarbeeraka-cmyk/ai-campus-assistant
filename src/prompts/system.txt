@@ -1,0 +1,629 @@
+<r23_document>
+[[PAGE 1-2]]
+VIGNAN’S LARA INSTITUTE OF TECHNOLOGY & SCIENCE (VLITS), Vadlamudi – 522213, AP, www.vignanlara.org
+Approved by AICTE New Delhi & Affiliated to JNTUK, Kakinada. Accredited by NBA (CSE, IT, ECE, EEE, ME), NAAC ‘A+’ and ISO 9001:2015.
+B.Tech (Regular-Full time) Effective from Academic Year 2023-24 onwards & B.Tech (Lateral Entry Scheme) Effective from Academic Year 2024-25 onwards.
+
+[[PAGE 3]]
+Academic Regulations (R23) for B.Tech (Regular-Full time) (Effective from 2023-24 onwards)
+1. Award of the Degree
+(a) Award of the B.Tech. Degree / B.Tech. Degree with a Minor if he/she fulfils the following:
+(i) Pursues a course of study for not less than four academic years and not more than eight academic years. However, for the students availing Gap year facility this period shall be extended by two years at the most and these two years would in addition to the maximum period permitted for graduation (Eight years).
+(ii) Registers for 160 credits and secures all 160 credits.
+(b) Award of B.Tech. degree with Honors if he/she fulfils the following:
+(i) Student secures additional 15 credits fulfilling all the requisites of a B.Tech. program i.e., 160 credits.
+(ii) Registering for Honors is optional.
+(iii) Honors is to be completed simultaneously with B.Tech. programme.
+2. Students, who fail to fulfil all the academic requirements for the award of the degree within eight academic years from the year of their admission, shall forfeit their seat in B.Tech. course and their admission stands cancelled. This clause shall be read along with clause 1 a) i).
+3. Admissions: Admission to the B.Tech Program shall be made subject to the eligibility, qualifications and specialization prescribed by the A.P. State Government/University from time to time. Admissions shall be made either based on the merit rank obtained by the student in the common entrance examination conducted by the A.P. Government/University or any other order of merit approved by the A.P. Government/University, subject to reservations as prescribed by the Government/University from time to time.
+4. Program related terms:
+Credit: A unit by which the course work is measured. It determines the number of hours of instruction required per week. One credit is equivalent to one hour of teaching (Lecture/Tutorial) or two hours of practical work/field work per week.
+Credit Definition: 1 Hr. Lecture (L) per week = 1 credit | 1 Hr. Tutorial (T) per week = 1 credit | 1 Hr. Practical (P) per week = 0.5 credit | 2 Hrs. Practical (Lab) per week = 1 credit.
+
+[[PAGE 4]]
+a) Academic Year: Two consecutive (one odd + one even) semesters constitute one academic year.
+b) Choice Based Credit System (CBCS): The CBCS provides a choice for students to select from the prescribed courses.
+5. Semester/Credits:
+i) A semester comprises 90 working days and an academic year is divided into two semesters.
+ii) The summer term is for eight weeks during summer vacation. Internship/apprenticeship/work-based vocational education and training can be carried out during the summer term, especially by students who wish to exit after two semesters or four semesters of study.
+iii) Regular courses may also be completed well in advance through MOOCs satisfying prerequisites.
+6. Structure of the Undergraduate Programme (Total 160 Credits):
+1. Humanities and Social Science including Management (HM): 13 credits (8%, AICTE: 8-9%)
+2. Basic Sciences (BS): 20 credits (13%, AICTE: 12-16%)
+3. Engineering Sciences (ES): 23.5 credits (14%, AICTE: 10-18%)
+4. Professional Core (PC): 54.5 credits (34%, AICTE: 30-36%)
+5. Electives – Professional (PE) & Open (OE); Domain Specific Skill Enhancement Courses (SEC): 33 credits (21%, AICTE: 19-23%)
+6. Internships & Project work (PR): 16 credits (10%, AICTE: 8-11%)
+7. Mandatory Courses (MC): Non-credit.
+
+[[PAGE 5]]
+7. Course Classification:
+1. Foundation Courses: Includes Mathematics, Physics and Chemistry; fundamental engineering courses; humanities, social sciences and management courses.
+2. Core Courses -> Professional Core Courses (PC): Includes subjects related to the parent discipline/department/branch of Engineering.
+3. Elective Courses -> Professional Elective Courses (PE): Includes elective subjects related to the parent discipline/department/branch of Engineering. Open Elective Courses (OE): Elective subjects which include interdisciplinary subjects or subjects in an area outside the parent discipline/department/branch of Engineering. Domain specific skill enhancement courses (SEC): interdisciplinary/job-oriented/domain courses which are relevant to the industry.
+4. Project & Internships: B.Tech. Project or Major Project; Summer Internships – Community based and Industry Internships; Industry oriented Full Semester Internship.
+5. Audit Courses: Mandatory non-credit courses covering subjects of developing desired attitude among the learners.
+8. Programme Pattern:
+i. Total duration of the B.Tech (Regular) Programme is four academic years.
+ii. Each academic year of study is divided into two semesters.
+iii. Minimum number of instruction days in each semester is 90 days.
+iv. Mandatory student induction program for freshers, with a three-week duration before the commencement of first semester (Physical activity, Creative Arts, Universal Human Values, Literary, Proficiency Modules, Lectures by Eminent People, Visits to local Areas, Familiarization to Dept./Branch & Innovations etc. as per AICTE).
+v. Health/wellness/yoga/sports and NSS/NCC/Scouts & Guides/Community service activities are made mandatory as credit courses for all undergraduate students.
+vi. Courses like Environmental Sciences, Indian Constitution, Technical Paper Writing & IPR are offered as non-credit mandatory courses for all undergraduate students.
+vii. Design Thinking for Innovation & Tinkering Labs are made mandatory as credit courses for all undergraduate students.
+viii. Increased flexibility for students through an increase in the elective component of the curriculum, with 05 Professional Elective courses and 04 Open Elective courses.
+
+[[PAGE 6]]
+ix. Professional Elective Courses include the elective courses relevant to the chosen specialization/branch.
+x. A total of 04 Open Electives are offered in the curriculum. A student can complete the requirement for B.Tech. Degree with a Minor within the 160 credits by opting for the courses offered through various verticals/tracks under Open Electives.
+xi. While choosing the electives, students shall ensure that they do not opt for the courses with syllabus contents similar to courses already pursued.
+xii. There shall be 05 skill-oriented courses offered during III to VII semesters. Among the five skill courses, four courses shall focus on the basic and advanced skills related to the domain/interdisciplinary courses and the other shall be a soft skills course.
+xiii. Students shall undergo mandatory summer internships, for a minimum of eight weeks duration at the end of second and third year of the programme. The internship at the end of second year shall be community oriented and industry internship at the end of third year.
+xiv. Mandatory full internship in the final semester of the programme along with the project work.
+xv. Undergraduate degree with Honors is introduced by the University for the students having good academic record.
+xvi. Each college shall take measures to implement Virtual Labs (https://www.vlab.co.in). Student shall be made to work on virtual lab experiments during the regular labs.
+xvii. Each college shall assign a faculty advisor/mentor after admission to a group of students from same department to provide guidance in courses registration/career growth/placements/opportunities for higher studies/GATE/other competitive exams etc.
+xviii. Preferably 25% of course work for the theory courses in every semester shall be conducted in the blended mode of learning.
+9. Evaluation Process:
+The performance of a student in each semester shall be evaluated subject wise with a maximum of 100 marks for theory and 100 marks for practical subject. Summer Internships shall be evaluated for 50 marks, Full Internship & Project work in final semester shall be evaluated for 200 marks, mandatory courses with no credits shall be evaluated for 30 mid semester marks.
+A student has to secure not less than 35% of marks in the end examination and a minimum of 40% of marks in the sum total of the mid semester and end examination marks taken together for the theory, practical, design, drawing subject or project etc. In case of a mandatory course, he/she should secure 40% of the total marks.
+
+[[PAGE 7]]
+Theory Courses: Continuous Internal Assessment = 30 Marks, Semester End Examination = 70 Marks, Total = 100 Marks.
+i) For theory subject, the distribution shall be 30 marks for Internal Evaluation and 70 marks for the End-Examination.
+ii) For practical subject, the distribution shall be 30 marks for Internal Evaluation and 70 marks for the End-Examination.
+iii) If any course contains two different branch subjects, the syllabus shall be written in two parts with 3 units each (Part-A and Part-B) and external examination question paper shall be set with two parts each for 35 marks.
+iv) If any subject is having both theory and practical components, they will be evaluated separately as theory subject and practical subject. However, they will be given same subject code with an extension of ‘T’ for theory subject and ‘P’ for practical subject.
+a) Continuous Internal Evaluation:
+i) For theory subjects, during the semester, there shall be two midterm examinations. Each midterm examination shall be evaluated for 30 marks of which 10 marks for objective paper (20 minutes duration), 15 marks for subjective paper (90 minutes duration) and 5 marks for assignment.
+ii) Objective paper shall contain 05 short answer questions with 2 marks each or maximum of 20 bits for 10 marks. Subjective paper shall contain 3 either or type questions (totally six questions from 1 to 6) of which student has to answer one from each either-or type of questions. Each question carries 10 marks. The marks obtained in the subjective paper are condensed to 15 marks.
+Note: Objective paper prepared in line with competitive exams, conducted on the day of subjective paper test. Any fraction in subjective paper shall be rounded off to the next higher mark. Assignments shall be problems, mini projects, design problems, slip tests, quizzes etc., continuous assessment throughout the semester and average marks considered.
+iii) If the student is absent for the mid semester examination, no re-exam shall be conducted and mid semester marks for that examination shall be considered as zero.
+iv) First midterm examination shall be conducted for I, II units of syllabus with one either or type question from each unit and third either or type question from both the
+
+[[PAGE 8]]
+units. The second midterm examination shall be conducted for III, IV and V units with one either or type question from each unit.
+v) Final mid semester marks shall be arrived at by considering the marks secured by the student in both the mid examinations with 80% weightage given to the better mid exam and 20% to the other.
+Example 1: First mid = 25, Second mid = 20 -> Final mid = (25x0.8) + (20x0.2) = 24.
+Example 2 (Absent in one mid): First mid = Absent (0), Second mid = 25 -> Final mid = (25x0.8) + (0x0.2) = 20.
+b) End Examination Evaluation:
+End examination of theory subjects pattern:
+i) 6 questions and all questions are compulsory.
+ii) Question I shall contain 10 compulsory short answer questions for a total of 20 marks (2 marks each, 2 short answer questions from each unit).
+iii) Questions from 2 to 6: either/or type questions of 10 marks each. Student shall answer any one of them. Each question covers one unit of the syllabus.
+End examination of theory subjects consisting of two parts (e.g. Basic Electrical & Electronics Engineering):
+i) Question paper in two parts: Part A and Part B with equal weightage of 35 marks each.
+ii) In each part, question 1 contains 5 compulsory short answer questions for a total of 5 marks (1 mark each).
+iii) In each part, questions 2 to 4 are either/or type questions of 10 marks each covering one unit per question.
+Practical Courses: Continuous Internal Assessment = 30 Marks, Semester End Examination = 70 Marks, Total = 100 Marks.
+
+[[PAGE 9]]
+b) Practical courses: 30 sessional marks and 70 end examination marks.
+c) Day-to-day work in the laboratory shall be evaluated for 15 marks by the concerned laboratory teacher based on the record/viva and 15 marks for the internal test.
+d) The end examination (70 marks) conducted by the concerned laboratory teacher and a senior expert in the subject from the same department: Procedure = 20 marks, Experimental work & Results = 30 marks, Viva voce = 20 marks.
+In a practical subject consisting of two parts (e.g. Basic Electrical & Electronics Engineering Lab), end examination is conducted for 70 marks as a single laboratory in 3 hours. Mid semester examination is evaluated for 30 marks in each part and final mid semester marks is the average of marks obtained in two parts.
+e) Design and/or drawing subjects (such as Engineering Drawing / Engineering Graphics): 30 marks mid semester evaluation and 70 marks end examination. Day-to-day work = 15 marks based on reports/submissions in class. Two midterm examinations of 2 hours duration each for 15 marks with weightage of 80% to better mid marks and 20% for the other. Subjective paper contains 3 either/or type questions of equal weightage of 5 marks. No objective paper in mid semester examination. Sum of day-to-day evaluation (15) + mid semester marks (15) = final sessional marks (30).
+End examination pattern for Engineering Graphics: 5 questions, either/or type, of 14 marks each (Total 70). No objective type questions in the end examination.
+f) Mandatory courses with zero credits: No external examination. Attendance is considered in aggregate attendance calculation. Passed only when securing 40% or more in the internal examinations (out of 30). If failed, a re-examination shall be conducted for failed candidates for 30 marks satisfying conditions in item 1 & 2.
+
+[[PAGE 10]]
+g) Laboratory records and mid semester test papers shall be preserved for a minimum of 3 years in the respective institutions.
+10. Skill oriented Courses:
+i) Five skill-oriented courses offered during III to VII semesters.
+ii) Out of the five skill courses, two shall be skill-oriented courses from the same domain. Of the remaining three, one shall be a soft skill course and the remaining two shall be skill-advanced courses from the same domain/Interdisciplinary/Job oriented.
+iii) Carries 100 marks: 30 sessional marks (day-to-day work evaluated for 30 marks based on regularity/assignments/viva/mid semester test) and 70 end examination marks (conducted similar to practical examination by concerned teacher and an expert nominated by the principal).
+iv) HOD identifies a faculty coordinator. Committee of HOD, coordinator and a senior Faculty member monitors evaluation and assigns marks/grades.
+v) Student may choose skill courses offered by the college or a certificate course offered by industries/Professional bodies/accredited bodies. Credits awarded upon producing Course Completion Certificate; college committee converts external grades/marks.
+vi) External courses and conversions to be approved by the University at the beginning of the semester via the principal.
+vii) If a student takes an external certificate course, the department shall mark attendance for the remaining courses in that semester excluding the skill course in all calculations of mandatory attendance requirements upon producing a valid approved certificate.
+
+[[PAGE 11-12]]
+11. Massive Open Online Courses (MOOCs):
+A Student has to pursue and complete one course compulsorily through MOOCs approved by the University for awarding the degree. Courses other than core can be pursued through MOOCs; a student is NOT permitted to register and pursue core courses through MOOCs. Minimum duration: 8 weeks or 12 weeks, registered with HOD approval. HOD appoints a mentor. Credits awarded only by submission of the certificate by passing the proctored exam. Exam fee borne by student. Qualified students can apply for credit transfer and are exempted from internal and external exams for that equivalent credit course.
+12. Credit Transfer Policy:
+As per UGC SWAYAM Regulation 2016 / NEP 2020, University allows up to a maximum of 20% of total courses in a programme i.e., maximum of 32 credits through MOOCs platform.
+i) Equivalent credit weightage given.
+ii) Registration only through respective department.
+iii) Credit transfer policy is applicable to Professional & Open Elective courses only.
+iv) Department identifies permitted courses; University/institution notifies eligible courses at beginning of semester.
+vi) Institution designates a faculty Mentor for each course.
+vii) University ensures no overlap of MOOC exams with university exam schedule. If results delayed, university re-issues marks sheet.
+viii) Credits acquired only after submitting certificate with percentage of marks and grades.
+ix) Institution submits to university exam section: a) List of passed students with certificates, b) Undertaking form filled by students for credit transfer.
+13. Academic Bank of Credits (ABC): Implemented as per NEP 2020 for learner mobility across universities, gaining credits via MOOCs, awarding certificate/diploma/degree in line with accumulated credits, and executing Multiple Entry and Exit system.
+14. Mandatory Internships:
+Summer Internships: Two summer internships (onsite or virtual) each with a minimum of 08 weeks duration, done at the end of second and third years respectively, are mandatory.
+- End of 2nd year: Community Service Project (society oriented, with Govt. organizations/NGOs etc.).
+- End of 3rd year: Industry Internship (with local industries, Govt. Organizations, construction agencies, Power projects, software MNCs etc.).
+
+[[PAGE 13]]
+Evaluation of summer internships: Through departmental committee (HOD, supervisor, senior faculty). Student submits report + oral presentation (50% weightage each) + industry completion certificate. Evaluated for 50 external marks. No internal marks for Summer Internship. Minimum 40% marks required to pass. If failed, reappear during semester supplementary examinations.
+Full Semester Internship and Project work: In the final semester, mandatory full semester internship (onsite/virtual) + parallel project work. Submit internship completion certificate and project report (permitted to submit project report on work carried out during internship).
+Total marks for project work = 200 marks (60 internal + 140 external).
+- Internal (60 marks): Supervisor assesses for 30 marks (Report: 15 marks, Seminar: 15 marks) + Departmental Project Review Committee (supervisor, senior faculty, HOD) evaluates showcased project for 30 marks.
+- External (140 marks): Viva-Voce Examination conducted in presence of internal examiner and external examiner appointed by the University.
+Completion of internships is mandatory; if failed to complete, not eligible for award of degree and must repeat and complete the internship.
+15. Guidelines for offering a Minor:
+Students admitted into B.Tech in a major stream/branch are eligible to obtain a degree in Minor in another stream.
+i) Requires completion of 12 credits in Minor stream chosen.
+ii) Two courses for 06 credits related to a Minor are to be pursued compulsorily (may be waived if done similar/equivalent courses, then must take an extra elective course in its place).
+iii) Electives (minimum of 2 courses) to complete a total of 12 credits.
+Note: Can complete Minor within 160 credits by opting for courses offered through verticals/tracks under the 04 Open Electives.
+
+[[PAGE 14-15]]
+16. Guidelines for offering Honors:
+i) Applicable to all B.Tech (Regular and Lateral Entry) students.
+ii) Student shall earn additional 15 credits for award of B.Tech. (Honors) degree from same branch/department/discipline registered for major degree (in addition to 160 credits for Regular / 120 for Lateral Entry).
+iii) Permitted to register for Honors in IV semester after III Semester results are declared; allowed to take maximum two subjects per semester pertaining to Honors from V Semester onwards.
+iv) Principal arranges separate class work and timetable.
+v) Courses used for primary major or substantially equivalent courses cannot be double counted towards Honors.
+vi) Can complete Honors courses in college or online platforms like SWAYAM (minimum duration 12 weeks for a 3-credit course and 8 weeks for a 2-credit course). Conventional mode follows regular B.Tech teaching and evaluation.
+vii) Attendance for Honors and regular Major courses considered separately.
+viii) Must maintain 75% attendance in all registered courses under Honors to be eligible for semester end exams.
+ix) Must pass in all subjects of Honors; no class/division (second class, first class, distinction) is awarded for Honors degree programme.
+x) If a student drops or is terminated from Honors, additional credits earned cannot be converted into open or core electives; they remain extra and student receives a separate grade sheet.
+xi) Degree certificate mentions: Bachelor of Technology (Honors) in XYZ.
+Enrolment into Honors:
+i) Eligible only in same Department/Discipline.
+ii) Based on CGPA up to III semester (for regular entry) and only III semester (for lateral entry). Students having 7 CGPA without any backlog subjects are permitted to register.
+iii) If detained due to lack of attendance either in Major or in Honors, registration is cancelled.
+iv) Transfer of credits from Honors to regular B.Tech degree and vice-versa is NOT permitted.
+v) Completed simultaneously with Major degree.
+Registration for Honors:
+i) Apply through parent department HOD within one week before start of every semester.
+ii) Submit willingness to principal through parent department.
+iii) Monitored continuously by an assigned faculty advisor/mentor.
+iv) No fee for registration of subjects for Honors program offered offline at the institution.
+17. Attendance Requirements:
+i) Eligible to appear for University external examinations if he/she acquires a minimum of 40% attendance in each subject AND 75% of attendance in aggregate of all the subjects. Condonation of shortage of attendance in aggregate up to 10% (65% and above and below 75%) in each semester may be granted by the College Academic Committee.
+ii) Shortage of Attendance below 65% in aggregate shall in NO CASE be condoned.
+iii) A stipulated fee shall be payable towards condonation of shortage of attendance to the University.
+iv) Students whose shortage of attendance is not condoned in any semester are not eligible to take their end examination of that class and their registration shall stand cancelled.
+v) A student will not be promoted to the next semester unless he satisfies the attendance requirements of the present semester. They may seek readmission for that semester from the date of commencement of class work.
+vi) If any candidate fulfils the attendance requirement in the present semester, he shall not be eligible for readmission into the same class.
+vii) In blended mode (offline & online), total attendance is calculated considering both offline and online attendance.
+viii) For induction programme attendance shall be maintained as per AICTE norms.
+
+[[PAGE 16]]
+18. Promotion Rules (in addition to attendance requirements in clause 17 [written as section 16 in text]):
+i) Promoted from I year to II year if he/she fulfils the minimum attendance requirement as per university norms.
+ii) Promoted from II to III year if he/she fulfils the academic requirement of securing 40% of the credits (any decimal fraction should be rounded off to lower digit) in the subjects that have been studied up to III semester.
+iii) Promoted from III year to IV year if he/she fulfils the academic requirements of securing 40% of the credits (any decimal fraction should be rounded off to lower digit) in the subjects that have been studied up to V semester.
+In case a student is detained for want of credits for a particular academic year by ii) & iii) above, the student may make up the credits through supplementary examinations and only after securing the required credits he/she shall be permitted to join in the V semester or VII semester respectively.
+iv) When a student is detained due to lack of credits/shortage of attendance he/she may be re-admitted when the semester is offered after fulfilment of academic regulations. In such case, he/she shall be in the academic regulations into which he/she is readmitted.
+19. Grading (10-point Absolute Grading System):
+- 90 & above: Grade S (Superior) = 10 Grade points
+- 80 - 89: Grade A (Excellent) = 9 Grade points
+- 70 - 79: Grade B (Very Good) = 8 Grade points
+- 60 - 69: Grade C (Good) = 7 Grade points
+- 50 - 59: Grade D (Average) = 6 Grade points
+- 40 - 49: Grade E (Pass) = 5 Grade points
+- < 40: Grade F (Fail) = 0 Grade points
+- Absent: Grade Ab (Absent) = 0 Grade points
+
+[[PAGE 17]]
+i) A student obtaining Grade ‘F’ or Grade ‘Ab’ in a subject is considered failed and required to reappear when offered in the next supplementary examination.
+ii) For non-credit audit courses, “Satisfactory” or “Unsatisfactory” is indicated instead of letter grade and not counted for SGPA/CGPA/Percentage.
+Computation of SGPA and CGPA:
+- SGPA = Σ (Ci × Gi) / Σ Ci (where Ci is credits of ith subject and Gi is grade point scored in ith course).
+- CGPA = Σ (Ci × Si) / Σ Ci (where Si is SGPA of ith semester and Ci is total number of credits up to that semester).
+- Both SGPA and CGPA rounded off to 2 decimal points.
+- Subjects with Zero grade points (F/Ab) ARE included while computing SGPA.
+Award of Class:
+- First Class with Distinction: CGPA ≥ 7.5
+- First Class: CGPA ≥ 6.5 and < 7.5
+- Second Class: CGPA ≥ 5.5 and < 6.5
+- Pass Class: CGPA ≥ 5.0 and < 5.5
+CGPA to Percentage conversion Formula: Percentage = (CGPA – 0.5) × 10.
+
+[[PAGE 18]]
+20. With-holding of Results: If the candidate has any dues not paid to the university or if any case of indiscipline or malpractice is pending against him/her, the result of the candidate shall be withheld.
+21. Multiple Entry / Exit Option:
+(a) Exit Policy: Students can choose to exit at the end of first/second/third year:
+i) UG Certificate in (Field of study/discipline): First year (first two semesters), 40 credits + additional exit 10-credit bridge course(s) lasting two months, including at least 6-credit job-specific internship/apprenticeship.
+ii) UG Diploma (in Field of study/discipline): First two years (first four semesters), 80 credits + additional exit 10-credit bridge course(s) lasting two months, including at least 6-credit job-specific internship/apprenticeship.
+iii) Bachelor of Science i.e., B.Sc. Engineering in (Field of study/discipline): First three years (first six semesters), 120 credits.
+(b) Entry Policy: Modalities on multiple entry will be provided in due course of time.
+22. Gap Year Concept: For Student Entrepreneur in Residence, outstanding students who wish to pursue entrepreneurship / establish startups are allowed to take a break of one year at any time after II year (may be extended to two years at the most; not counted for the maximum time for graduation). Proposal forwarded by Principal to University evaluation committee for approval.
+
+[[PAGE 19]]
+23. Transitory Regulations: Discontinued, detained, or failed candidates are eligible for readmission into the unfinished semester from the date of commencement of class work with the same or equivalent subjects as and when offered, subject to Section 2, and will follow the academic regulations into which they are readmitted. Candidates availing Gap Year are eligible for re-joining into the succeeding year of their B.Tech from commencement of class work, subject to Section 2, following the academic regulations into which they are readmitted.
+24. Minimum Instruction Days for a Semester: 90 days (including exams).
+25. Medium of Instruction: English only (entire B.Tech programme including examinations and project reports).
+26. Student Transfers: As per guidelines issued by the Government of Andhra Pradesh and the Universities from time to time.
+27. General Instructions:
+i. Academic regulations should be read as a whole for any interpretation.
+ii. Malpractices rules-nature and punishments are appended.
+iii. “he”, “him”, “his” include “she”, “her”, “hers”.
+iv. In case of any doubt or ambiguity in interpretation of above rules, decision of the Vice-Chancellor is final.
+v. Universities may change or amend regulations or syllabi at any time, applicable to all students on rolls from notified dates.
+vi. In case of doubt/ambiguity in guidelines, decision of the Vice-Chancellor / Head of the institution is final.
+
+[[PAGE 20-21]]
+ACADEMIC REGULATIONS (R23) FOR B.TECH. (LATERAL ENTRY SCHEME) (Effective from 2024-25 onwards into II year)
+1. Award of Degree:
+(a) B.Tech / B.Tech with Minor: (i) Course of study not less than 3 academic years and not more than 6 academic years (Gap year extends by 2 years at most in addition to 6 years). (ii) Registers for 120 credits and secures all 120 credits.
+(b) B.Tech with Honors: (i) Secures additional 15 credits fulfilling all requisites of 120 credits. (ii) Optional. (iii) Completed simultaneously.
+2. Students failing to fulfil requirements within 6 consecutive academic years from year of admission forfeit their seat.
+3. Minimum Academic Requirements:
+i. Pass criteria: Not less than 35% marks in end examination AND minimum 40% marks in sum total of mid semester evaluation and end examination taken together.
+ii. Promotion from III year to IV year: Securing 40% of the credits (any decimal fraction rounded off to lower digit) in the subjects studied up to V semester. If detained for want of credits, may make up credits through supplementary exams before commencement of IV year I semester class work of next year.
+4. Course Pattern: Three academic years on semester pattern. All other regulations of 4-year Regular course hold good for Lateral Entry.
+
+[[PAGE 22]]
+B.TECH. COURSE STRUCTURE – R23
+INDUCTION PROGRAMME (3 Weeks before Sem I):
+1. Physical Activities -- Sports, Yoga and Meditation, Plantation (MC, 0-0-6-0)
+2. Career Counselling (MC, 2-0-2-0)
+3. Orientation to all branches -- career options, tools, etc. (MC, 3-0-0-0)
+4. Orientation on admitted Branch -- corresponding labs, tools and platforms (EC, 2-0-3-0)
+5. Proficiency Modules & Productivity Tools (ES, 2-1-2-0)
+6. Assessment on basic aptitude and mathematical skills (MC, 2-0-3-0)
+7. Remedial Training in Foundation Courses (MC, 2-1-2-0)
+8. Human Values & Professional Ethics (MC, 3-0-0-0)
+9. Communication Skills -- focus on Listening, Speaking, Reading, Writing skills (BS, 2-1-2-0)
+10. Concepts of Programming (ES, 2-0-2-0)
+Group-A Branches: CSE, EEE, Chemical Engineering, Food Technology, Petroleum Technology, Pharmaceutical Engineering.
+Group-B Branches: Agricultural Engineering, Civil Engineering, Mechanical Engineering, Mining Engineering, Automobile Engineering, Robotics, ECE & ECE-Allied, CSE-Allied & IT.
+
+[[PAGE 23]]
+B.Tech. – I Year I Semester (for Group-A Branches) [Total L=14, T=0, P=11, Credits=19.5]:
+1. Communicative English (BS&H, 2-0-0, 2 Cr)
+2. Engineering Chemistry / Chemistry / Fundamental Chemistry (BS&H, 3-0-0, 3 Cr)
+3. Linear Algebra & Calculus (BS&H, 3-0-0, 3 Cr)
+4. Basic Civil & Mechanical Engineering (ES, 3-0-0, 3 Cr)
+5. Introduction to Programming (ES, 3-0-0, 3 Cr)
+6. Communicative English Lab (BS&H, 0-0-2, 1 Cr)
+7. Engineering Chemistry / Chemistry / Fundamental Chemistry Lab (BS&H, 0-0-2, 1 Cr)
+8. Engineering Workshop (ES, 0-0-3, 1.5 Cr)
+9. Computer Programming Lab (ES, 0-0-3, 1.5 Cr)
+10. Health and wellness, Yoga and Sports (BS&H, 0-0-1, 0.5 Cr)
+
+B.Tech. – I Year I Semester (for Group-B Branches) [Total L=13, T=0, P=15, Credits=20.5]:
+1. Engineering Physics (BS&H, 3-0-0, 3 Cr)
+2. Linear Algebra & Calculus (BS&H, 3-0-0, 3 Cr)
+3. Basic Electrical & Electronics Engineering (ES, 3-0-0, 3 Cr)
+4. Engineering Graphics (ES, 1-0-4, 3 Cr)
+5. Introduction to Programming (ES, 3-0-0, 3 Cr)
+6. IT Workshop (ES, 0-0-2, 1 Cr)
+7. Engineering Physics Lab (BS&H, 0-0-2, 1 Cr)
+8. Electrical & Electronics Engineering Workshop (ES, 0-0-3, 1.5 Cr)
+9. Computer Programming Lab (ES, 0-0-3, 1.5 Cr)
+10. NSS/NCC/Scouts & Guides/Community Service (BS&H, 0-0-1, 0.5 Cr)
+
+[[PAGE 24]]
+B.Tech. – I Year II Semester (for Group-A Branches) [Total L=13, T=0, P=15, Credits=20.5]:
+1. Engineering Physics (BS&H, 3-0-0, 3 Cr)
+2. Differential Equations & Vector Calculus (BS&H, 3-0-0, 3 Cr)
+3. Basic Electrical and Electronics Engineering (ES, 3-0-0, 3 Cr)
+4. Engineering Graphics (ES, 1-0-4, 3 Cr)
+5. IT Workshop (ES, 0-0-2, 1 Cr)
+6. Data Structures / Electrical Circuit Analysis - I [Branch specific] (PC, 3-0-0, 3 Cr)
+7. Engineering Physics Lab (BS&H, 0-0-2, 1 Cr)
+8. Electrical and Electronics Engineering Workshop (ES, 0-0-3, 1.5 Cr)
+9. Data Structures Lab / Electrical Circuit Analysis - I Lab (PC, 0-0-3, 1.5 Cr)
+10. NSS/NCC/Scouts & Guides/Community Service (0-0-1, 0.5 Cr)
+
+B.Tech. – I Year II Semester (for Group-B Branches) [Total L=14, T=0, P=11, Credits=19.5]:
+1. Communicative English (BS&H, 2-0-0, 2 Cr)
+2. Engineering Chemistry / Chemistry / Fundamental Chemistry (BS&H, 3-0-0, 3 Cr)
+3. Differential Equations & Vector Calculus (ES, 3-0-0, 3 Cr)
+4. Basic Civil & Mechanical Engineering (ES, 3-0-0, 3 Cr)
+5. Engineering Mechanics / Network Analysis / Data structures [Branch specific] (PC, 3-0-0, 3 Cr)
+6. Communicative English Lab (BS&H, 0-0-2, 1 Cr)
+7. Engineering Chemistry / Chemistry / Fundamental Chemistry Lab (BS&H, 0-0-2, 1 Cr)
+8. Engineering Workshop (ES, 0-0-3, 1.5 Cr)
+9. Engineering Mechanics & Building Practices Lab / Engineering Mechanics Lab / Network Analysis Lab / Data structures Lab (PC, 0-0-3, 1.5 Cr)
+10. Health and wellness, Yoga and Sports (0-0-1, 0.5 Cr)
+
+[[PAGE 25-27]]
+II, III, IV YEAR COURSE STRUCTURE (Generic Categories & Credits):
+- II Year I Semester (Total 15-2-10 = 20 Credits): 1. Engineering Mathematics (Branch specific, BS&H, 3-0-0, 3 Cr), 2. Universal Human Values – Understanding Harmony (BS&H, 2-1-0, 3 Cr), 3. ES (2-0-0, 2 Cr), 4. PC (3-0-0, 3 Cr), 5. PC (3-0-0, 3 Cr), 6. ES Lab (0-0-2, 1 Cr), 7. PC Lab (0-0-3, 1.5 Cr), 8. PC Lab (0-0-3, 1.5 Cr), 9. Skill Enhancement course (0-1-2, 2 Cr), 10. Audit Course: Environmental Science (2-0-0, 0 Cr).
+- II Year II Semester (Total 15-1-12 = 22 Credits): 1. Management Course-I (2-0-0, 2 Cr), 2. ES (3-0-0, 3 Cr), 3-5. Three PC courses (each 3-0-0, 3 Cr), 6. PC Lab (0-0-2, 1 Cr), 7-8. Two PC Labs (each 0-0-3, 1.5 Cr), 9. Skill Enhancement course (0-1-2, 2 Cr), 10. Design Thinking & Innovation (BS&H, 1-0-2, 2 Cr). Followed by Mandatory Community Service Project Internship of 08 weeks during summer vacation.
+- III Year I Semester (Total 14-1-10 = 22 Credits): 1-2. Two PC courses (each 3-0-0, 3 Cr), 3. Professional Elective-I (2-0-0, 2 Cr), 4. Open Elective-I (3-0-0, 3 Cr), 5. Open Elective-II (3-0-0, 3 Cr), 6-7. Two PC Labs (each 0-0-3, 1.5 Cr), 8. Skill Enhancement course (0-1-2, 2 Cr), 9. Tinkering Lab (BS&H, 0-0-2, 1 Cr), 10. Evaluation of Community Service Internship (2 Cr).
+- III Year II Semester (Total 19-1-6 = 21 Credits): 1-3. Three PC courses (each 3-0-0, 3 Cr), 4. Professional Elective-II (3-0-0, 3 Cr), 5. Professional Elective-III (2-0-0, 2 Cr), 6. Open Elective-III (3-0-0, 3 Cr), 7-8. Two PC Labs (each 0-0-2, 1 Cr), 9. Skill Enhancement course (0-1-2, 2 Cr), 10. Audit Course: Technical Paper Writing & IPR (2-0-0, 0 Cr). Followed by Mandatory Industry Internship of 08 weeks during summer vacation.
+- IV Year I Semester (Total 19-1-6 = 23 Credits): 1-2. Two PC courses (each 3-0-0, 3 Cr), 3. Management Course-II (2-0-0, 2 Cr), 4. Professional Elective-IV (3-0-0, 3 Cr), 5. Professional Elective-V (3-0-0, 3 Cr), 6. Open Elective-IV (3-0-0, 3 Cr), 7-8. Two PC Labs (each 0-0-2, 1 Cr), 9. Skill Enhancement Course (0-1-2, 2 Cr), 10. Audit Course: Constitution of India (2-0-0, 0 Cr), 11. Evaluation of Industry Internship (2 Cr).
+- IV Year II Semester (Total 0-0-24 = 12 Credits): 1. Full semester Internship & Project Work (0-0-24, 12 Cr).
+
+[[PAGE 28-31]]
+FIRST YEAR SYLLABUS
+COMMUNICATIVE ENGLISH (Common to All Branches, L-T-P-C: 2-0-0-2)
+Objectives: Facilitate effective listening, Reading, Speaking and Writing skills; comprehending abilities, oral presentations, reporting useful information, grammatical structures and vocabulary to make students industry ready.
+Outcomes: CO1: Understand context, topic, specific info from social/transactional dialogues. CO2: Apply grammatical structures to formulate sentences and correct word forms. CO3: Analyze discourse markers to speak clearly on a specific topic in informal discussions. CO4: Evaluate reading/listening texts and write summaries based on global comprehension. CO5: Create a coherent paragraph, essay, and resume.
+UNIT I: Lesson: HUMAN VALUES: Gift of Magi (Short Story). Listening: Identifying topic, context, specific info from short audio texts. Speaking: Asking/answering general questions on familiar topics (home, family, work, studies, interests); introducing oneself and others. Reading: Skimming for main idea; scanning for specific info. Writing: Mechanics of Writing-Capitalization, Spellings, Punctuation-Parts of Sentences. Grammar: Parts of Speech, Basic Sentence Structures-forming questions. Vocabulary: Synonyms, Antonyms, Affixes (Prefixes/Suffixes), Root words.
+UNIT II: Lesson: NATURE: The Brook by Alfred Tennyson (Poem). Listening: Answering questions about main and supporting ideas from audio texts. Speaking: Discussion in pairs/small groups on specific topics followed by short structure talks. Reading: Identifying sequence of ideas; verbal techniques linking ideas in a paragraph. Writing: Structure of a paragraph - Paragraph writing. Grammar: Cohesive devices - linkers, use of articles and zero article; prepositions. Vocabulary: Homonyms, Homophones, Homographs.
+UNIT III: Lesson: BIOGRAPHY: Elon Musk. Listening: Global comprehension and summarizing. Speaking: Discussing specific topics in pairs/small groups and reporting. Reading: Reading in detail by making basic inferences - context clues. Writing: Summarizing, Note-making, paraphrasing. Grammar: Verbs - tenses; subject-verb agreement; Compound words, Collocations. Vocabulary: Compound words, Collocations.
+UNIT IV: Lesson: INSPIRATION: The Toys of Peace by Saki. Listening: Making predictions while listening to conversations/transactional dialogues with/without video. Speaking: Role plays for conversational English in academic contexts (formal/informal) - asking for and giving information/directions. Reading: Studying graphic elements in texts to convey info, reveal trends/patterns/relationships, communicate processes or display complicated data. Writing: Letter Writing: Official Letters, Resumes. Grammar: Reporting verbs, Direct & Indirect speech, Active & Passive Voice. Vocabulary: Words often confused, Jargons.
+UNIT V: Lesson: MOTIVATION: The Power of Intrapersonal Communication (An Essay). Listening: Identifying key terms, understanding concepts and answering comprehension questions. Speaking: Formal oral presentations on academic topics. Reading: Reading comprehension. Writing: Writing structured essays on specific topics. Grammar: Editing short texts – identifying and correcting common errors in grammar and usage (articles, prepositions, tenses, subject verb agreement). Vocabulary: Technical Jargons.
+Textbooks: 1. Pathfinder: Communicative English for Undergraduate Students, 1st Ed, Orient Black Swan, 2023 (Units 1,2 & 3). 2. Empowering with Language by Cengage Publications, 2023 (Units 4 & 5).
+
+[[PAGE 32-33]]
+COMMUNICATIVE ENGLISH LAB (Common to All Branches, L-T-P-C: 0-0-2-1)
+Objectives: Expose students to self-instructional, learner friendly modes of language learning; train in basic communication skills and job interviews.
+Outcomes: CO1: Understand different aspects of English proficiency with emphasis on LSRW skills. CO2: Apply communication skills through language learning activities. CO3: Analyze English speech sounds, stress, rhythm, intonation and syllable division. CO4: Evaluate and exhibit professionalism in debates and group discussions. CO5: Create effective [text incomplete in source document: "Create effective Course Objectives:"].
+List of Topics: 1. Vowels & Consonants 2. Neutralization/Accent Rules 3. Communication Skills & JAM 4. Role Play or Conversational Practice 5. E-mail Writing 6. Resume Writing, Cover letter, SOP 7. Group Discussions-methods & practice 8. Debates - Methods & Practice 9. PPT Presentations/Poster Presentation 10. Interviews Skills. Suggested Software: Walden Infotech, Young India Films.
+
+[[PAGE 34-35]]
+LINEAR ALGEBRA & CALCULUS (Common to All Branches, L-T-P-C: 3-0-0-3)
+Objectives: Equip students with standard concepts and tools at intermediate to advanced level mathematics to handle real-world problems and applications.
+Outcomes: CO1: Develop and use matrix algebra techniques for practical applications. CO2: Utilize mean value theorems to real life problems. CO3: Familiarize with functions of several variables useful in optimization. CO4: Learn important tools of calculus in higher dimensions. CO5: Familiarize with double and triple integrals in 2D (Cartesian, polar) and 3D (cylindrical, spherical coordinates).
+UNIT I Matrices: Rank of a matrix by echelon form, normal form. Cauchy–Binet formulae (without proof). Inverse of Non-singular matrices by Gauss-Jordan method, System of linear equations: Solving system of Homogeneous and Non-Homogeneous equations by Gauss elimination method, Jacobi and Gauss Seidel Iteration Methods.
+UNIT II Eigenvalues, Eigenvectors and Orthogonal Transformation: Eigenvalues, Eigenvectors and their properties, Diagonalization of a matrix, Cayley-Hamilton Theorem (without proof), finding inverse and power of a matrix by Cayley-Hamilton Theorem, Quadratic forms and Nature of the Quadratic Forms, Reduction of Quadratic form to canonical forms by Orthogonal Transformation.
+UNIT III Calculus: Mean Value Theorems: Rolle’s Theorem, Lagrange’s mean value theorem with their geometrical interpretation, Cauchy’s mean value theorem, Taylor’s and Maclaurin theorems with remainders (without proof), Problems and applications on the above theorems.
+UNIT IV Partial differentiation and Applications (Multi variable calculus): Functions of several variables: Continuity and Differentiability, Partial derivatives, total derivatives, chain rule, Directional derivative, Taylor’s and Maclaurin’s series expansion of functions of two variables. Jacobians, Functional dependence, maxima and minima of functions of two variables, method of Lagrange multipliers.
+UNIT V Multiple Integrals (Multi variable Calculus): Double integrals, triple integrals, change of order of integration, change of variables to polar, cylindrical and spherical coordinates. Finding areas (by double integrals) and volumes (by double integrals and triple integrals).
+Textbooks: 1. Higher Engineering Mathematics, B. S. Grewal, Khanna Publishers, 2017, 44th Ed. 2. Advanced Engineering Mathematics, Erwin Kreyszig, John Wiley & Sons, 2018, 10th Ed.
+
+[[PAGE 36-37]]
+DIFFERENTIAL EQUATIONS AND VECTOR CALCULUS (Common to All Branches, L-T-P-C: 3-0-0-3)
+Objectives: Enlighten learners in differential equations and multivariable calculus; furnish basic concepts to lead into advanced real-world applications.
+Outcomes: CO1: Solve differential equations related to various engineering fields. CO2: Identify solution methods for partial differential equations that model physical processes. CO3: Interpret physical meaning of gradient, curl and divergence. CO4: Estimate work done against a field, circulation and flux using vector calculus.
+UNIT I Differential equations of first order and first degree: Linear differential equations – Bernoulli’s equations - Exact equations and equations reducible to exact form. Applications: Newton’s Law of cooling – Law of natural growth and decay - Electrical circuits.
+UNIT II Linear differential equations of higher order (Constant Coefficients): Definitions, homogenous and non-homogenous, complimentary function, general solution, particular integral, Wronskian, Method of variation of parameters. Simultaneous linear equations, Applications to L-C-R Circuit problems and Simple Harmonic motion.
+UNIT III Partial Differential Equations: Introduction and formation of PDEs by elimination of arbitrary constants and arbitrary functions, solutions of first order linear equations using Lagrange’s method. Homogeneous Linear PDEs with constant coefficients.
+UNIT IV Vector differentiation: Scalar and vector point functions, vector operator Del, Del applies to scalar point functions - Gradient, Directional derivative, del applied to vector point functions - Divergence and Curl, vector identities.
+UNIT V Vector integration: Line integral - circulation - work done, surface integral - flux, Green’s theorem in the plane (without proof), Stoke’s theorem (without proof), volume integral, Divergence theorem (without proof) and related problems.
+Textbooks: 1. Higher Engineering Mathematics, B. S. Grewal, Khanna Publishers, 2017, 44th Ed. 2. Advanced Engineering Mathematics, Erwin Kreyszig, John Wiley & Sons, 2018, 10th Ed.
+
+[[PAGE 38-39]]
+ENGINEERING PHYSICS (Common for all branches, L-T-P-C: 3-0-0-3)
+Objectives: Bridge gap between 10+2 Physics and UG engineering courses: optical phenomenon (interference, diffraction, polarization), crystalline solids, quantum mechanics, dielectric and magnetic materials, semiconductors.
+Outcomes: CO1: Analyze intensity variation of light due to polarization, interference and diffraction. CO2: Familiarize with basics of crystals and their structures. CO3: Explain fundamentals of quantum mechanics and apply to 1D motion of particles. CO4: Summarize types of polarization of dielectrics and classify magnetic materials. CO5: Explain basic concepts of Quantum Mechanics and band theory of solids. CO6: Identify type of semiconductor using Hall effect.
+UNIT I Wave Optics: Interference: Principle of superposition – Interference of light - Interference in thin films (Reflection Geometry) & applications - Colours in thin films - Newton’s Rings, Determination of wavelength and refractive index. Diffraction: Fresnel and Fraunhofer diffractions - Fraunhofer diffraction due to single slit, double slit & N-slits (Qualitative) – Diffraction Grating - Dispersive power and resolving power of Grating (Qualitative). Polarization: Types of polarization - Polarization by reflection, refraction and Double refraction - Nicol’s Prism - Half wave and Quarter wave plates.
+UNIT II Crystallography and X-ray diffraction: Crystallography: Space lattice, Basis, Unit Cell and lattice parameters – Bravais Lattices – crystal systems (3D) – coordination number - packing fraction of SC, BCC & FCC - Miller indices – separation between successive (hkl) planes. X-ray diffraction: Bragg’s law - X-ray Diffractometer – crystal structure determination by Laue’s and powder methods.
+UNIT III Dielectric and Magnetic Materials: Dielectric Materials: Dielectric polarization - Dielectric polarizability, Susceptibility, Dielectric constant and Displacement Vector – Relation between electric vectors - Types of polarizations - Electronic (Quantitative), Ionic (Quantitative) and Orientation polarizations (Qualitative) - Lorentz internal field - Clausius-Mossotti equation - complex dielectric constant – Frequency dependence of polarization – dielectric loss. Magnetic Materials: Magnetic dipole moment - Magnetization - Magnetic susceptibility and permeability – Atomic origin of magnetism - Classification of magnetic materials: Dia, para, Ferro, anti-ferro & Ferri magnetic materials - Domain concept for Ferromagnetism & Domain walls (Qualitative) - Hysteresis - soft and hard magnetic materials.
+UNIT IV Quantum Mechanics and Free electron Theory: Quantum Mechanics: Dual nature of matter – Heisenberg’s Uncertainty Principle – Significance and properties of wave function – Schrodinger’s time independent and dependent wave equations – Particle in a one-dimensional infinite potential well. Free Electron Theory: Classical free electron theory (Qualitative with merits and demerits) – Quantum free electron theory – electrical conductivity based on quantum free electron theory - Fermi-Dirac distribution - Density of states - Fermi energy.
+UNIT V Semiconductors: Formation of energy bands – classification of crystalline solids - Intrinsic semiconductors: Density of charge carriers – Electrical conductivity – Fermi level – Extrinsic semiconductors: density of charge carriers – dependence of Fermi energy on carrier concentration and temperature - Drift and diffusion currents – Einstein’s equation – Hall effect and its applications.
+Textbooks: 1. A Text book of Engineering Physics, M. N. Avadhanulu, P.G. Kshirsagar & TVS Arun Murthy, S. Chand Publications, 11th Ed 2019. 2. Engineering Physics - D.K. Bhattacharya and Poonam Tandon, Oxford press (2015).
+
+[[PAGE 40-41]]
+ENGINEERING PHYSICS LAB (Common to All Branches, L-T-P-C: 0-0-2-1)
+Outcomes: CO1: Operate travelling microscope and spectrometer. CO2: Estimate wavelengths of different colours using diffraction grating. CO3: Plot intensity of magnetic field of circular coil carrying current with distance. CO4: Evaluate dielectric constant and magnetic susceptibility. CO5: Calculate band gap of a given semiconductor. CO6: Identify type of semiconductor using Hall effect.
+List of Experiments (Any TEN to be conducted; any TWO may be in virtual mode):
+1. Radius of curvature of Plano-convex lens by Newton’s rings. 2. Wavelengths of spectral lines in mercury spectrum using diffraction grating in normal incidence. 3. Verification of Brewster’s law. 4. Dielectric constant using charging and discharging method. 5. Variation of B versus H (B-H curve). 6. Wavelength of Laser light using diffraction grating. 7. Estimation of Planck’s constant using photoelectric effect. 8. Resistivity of semiconductors by four probe methods. 9. Energy gap of a semiconductor using p-n junction diode. 10. Magnetic field along the axis of a current carrying circular coil by Stewart Gee’s Method. 11. Hall voltage and Hall coefficient of a semiconductor using Hall effect. 12. Temperature coefficients of a thermistor. 13. Acceleration due to gravity and radius of Gyration using a compound pendulum. 14. Magnetic susceptibility by Kundt’s tube method. 15. Rigidity modulus of wire using Torsional pendulum. 16. Sonometer: Verification of laws of stretched string. 17. Young’s modulus for wooden scale by non-uniform bending (or double cantilever) method. 18. Frequency of electrically maintained tuning fork by Melde’s experiment.
+
+[[PAGE 42-43]]
+ENGINEERING CHEMISTRY (Common to Civil, Chemical, Mechanical Engineering and allied branches, L-T-P-C: 3-0-0-3)
+Objectives: Familiarize engineering chemistry applications; soft and hard waters, softening methods; electrochemistry, polymers, surface chemistry, and cement.
+Outcomes: CO1: Demonstrate corrosion prevention methods and factors affecting corrosion. CO2: Explain preparation, properties, applications of thermoplastics, thermosetting, elastomers & conducting polymers. CO3: Explain calorific values, octane number, refining of petroleum and cracking of oils. CO4: Explain setting and hardening of cement. CO5: Summarize concepts of colloids, micelle and nanomaterials.
+UNIT I Water Technology: Soft and hardwater, Estimation of hardness of water by EDTA Method, Estimation of dissolved Oxygen - Boiler troubles – Priming, foaming, scale and sludge, Caustic embrittlement, Industrial water treatment – Specifications for drinking water, BIS and WHO standards, Ion-exchange processes - desalination of brackish water, reverse osmosis (RO) and electrodialysis.
+UNIT II Electrochemistry and Applications: Electrodes – electrochemical cell, Nernst equation, cell potential calculations. Primary cells – Zinc-air battery, Secondary cells – Nickel-Cadmium (NiCad), and lithium ion batteries - working principle including cell reactions; Fuel cells-Basic Concepts, principle and working of hydrogen-oxygen Fuel cell. Corrosion: Electrochemical theory of corrosion, differential aeration cell corrosion, galvanic corrosion, metal oxide formation by dry electrochemical corrosion, Pilling Bedworth ratios and uses, Factors affecting corrosion, cathodic and anodic protection, electroplating and electroless plating (Nickel and Copper).
+UNIT III Polymers and Fuel Chemistry: Functionality of monomers, Mechanism of chain growth, step growth polymerization. Thermoplastics and Thermo-setting plastics: Preparation, properties and applications of polystyrene, PVC, Nylon 6,6 and Bakelite. Elastomers – Preparation, properties and applications of Buna S, Buna N, Thiokol rubbers. Fuels – Types of fuels, calorific value, numerical problems; Analysis of coal (Proximate and Ultimate analysis), Liquid Fuels, refining of petroleum, Octane and Cetane number - alternative fuels - propane, methanol, ethanol and bio fuel-biodiesel.
+UNIT IV Modern Engineering Materials: Composites - Constituents, Classification - Particle, Fibre and Structural reinforced composites, properties and Engineering applications. Refractories - Classification, Properties, Factors affecting refractory materials and Applications. Lubricants - Classification, Functions, Mechanism, Properties of lubricating oils – Viscosity, Viscosity Index, Flash point, Fire point, Cloud point, saponification and Applications. Building materials - Portland Cement, constituents, Setting and Hardening of cement.
+UNIT V Surface Chemistry and Nanomaterials: Colloids, nanometals and nanometal oxides, micelle formation, synthesis of colloids (Braggs Method), chemical and biological methods of preparation of nanometals and metal oxides, stabilization of colloids and nanomaterials by stabilizing agents, adsorption isotherm (Freundlich and Langmuir), BET equation (no derivation), applications of colloids and nanomaterials – catalysis, medicine, sensors, etc.
+Textbooks: 1. Jain and Jain, Engineering Chemistry, 16/e, Dhanpat Rai, 2013. 2. Peter Atkins, Julio de Paula and James Keeler, Atkins’ Physical Chemistry, 10/e, Oxford University Press, 2010.
+
+[[PAGE 44]]
+ENGINEERING CHEMISTRY LAB (Common to Civil, Chemical, Mechanical Engineering & allied branches, L-T-P-C: 0-0-2-1)
+Outcomes: CO1: Determine cell constant and conductance of solutions. CO2: Prepare advanced polymer materials. CO3: Determine physical properties like surface tension, adsorption and viscosity. CO4: Estimate Iron and Calcium in cement. CO5: Calculate hardness of water.
+List of Experiments: 1. Hardness of a groundwater sample. 2. Dissolved Oxygen by Winkler’s method. 3. Strength of an acid in Pb-Acid battery. 4. Preparation of a polymer (Bakelite). 5. Percentage of Iron in Cement sample by colorimetry. 6. Estimation of Calcium in Portland Cement. 7. Preparation of nanomaterials by precipitation method. 8. Adsorption of acetic acid by charcoal. 9. Percentage Moisture content in a coal sample. 10. Viscosity of lubricating oil by Redwood Viscometer 1. 11. Viscosity of lubricating oil by Redwood Viscometer 2. 12. Calorific value of gases by Junker’s gas Calorimeter.
+
+[[PAGE 45-46]]
+CHEMISTRY (Common to EEE, ECE, CSE, IT & allied branches, L-T-P-C: 3-0-0-3)
+Objectives: Familiarize engineering chemistry applications; electrochemistry and polymers; instrumental methods, molecular machines and switches.
+Outcomes: CO1: Compare materials of construction for battery and electrochemical sensors. CO2: Explain preparation, properties, applications of thermoplastics, thermosetting, elastomers & conducting polymers. CO3: Explain principles of spectrometry, chromatography in separation of solid and liquid mixtures. CO4: Apply principle of Band diagrams in conductors and semiconductors. CO5: Summarize concepts of Instrumental methods.
+UNIT I Structure and Bonding Models: Fundamentals of Quantum mechanics, Schrodinger Wave equation, significance of Ψ and Ψ2, particle in one dimensional box, molecular orbital theory – bonding in homo- and heteronuclear diatomic molecules – energy level diagrams of O2 and CO, etc. π-molecular orbitals of butadiene and benzene, calculation of bond order.
+UNIT II Modern Engineering materials: Semiconductors – basic concept, application. Super conductors - basic concept, applications. Supercapacitors: Basic Concept, Classification, Applications. Nano materials: classification, properties and applications of Fullerenes, carbon nano tubes and Graphenes nanoparticles.
+UNIT III Electrochemistry and Applications: Electrochemical cell, Nernst equation, cell potential calculations and numerical problems, potentiometry - potentiometric titrations (redox titrations), concept of conductivity, conductivity cell, conductometric titrations (acid-base titrations). Electrochemical sensors – potentiometric sensors with examples, amperometric sensors with examples. Primary cells – Zinc-air battery, Secondary cells – lithium-ion batteries - working and cell reactions; Fuel cells, hydrogen-oxygen fuel cell – working. Polymer Electrolyte Membrane Fuel cells (PEMFC).
+UNIT IV Polymer Chemistry: Functionality of monomers, chain growth, step growth and coordination polymerization with examples and mechanisms. Plastics – Thermo and Thermosetting plastics, Preparation, properties and applications of PVC, Teflon, Bakelite, Nylon-6,6, carbon fibres. Elastomers – Buna-S, Buna-N. Conducting polymers – polyacetylene, polyaniline – mechanism of conduction and applications. Bio-Degradable polymers - Poly Glycolic Acid (PGA), Polylactic Acid (PLA).
+UNIT V Instrumental Methods and Applications: Electromagnetic spectrum. Absorption of radiation: Beer-Lambert’s law. UV-Visible Spectroscopy, electronic transition, Instrumentation, IR spectroscopies, fundamental modes and selection rules, Instrumentation. Chromatography - Basic Principle, Classification - HPLC: Principle, Instrumentation and Applications.
+Textbooks: 1. Jain and Jain, Engineering Chemistry, 16/e, Dhanpat Rai, 2013. 2. Peter Atkins, Julio de Paula and James Keeler, Atkins’ Physical Chemistry, 10/e, Oxford University Press, 2010.
+
+[[PAGE 47]]
+CHEMISTRY LAB (Common to EEE, ECE, CSE, IT & allied branches, L-T-P-C: 0-0-2-1)
+Outcomes: CO1: Determine cell constant and conductance of solutions. CO2: Prepare advanced polymer Bakelite materials. CO3: Measure strength of an acid in secondary batteries. CO4: Analyse IR spectra of some organic compounds. CO5: Calculate strength of acid in Pb-Acid battery.
+List of Experiments: 1. Measurement of 10Dq by spectrophotometric method. 2. Conductometric titration of strong acid vs. strong base. 3. Conductometric titration of weak acid vs. strong base. 4. Cell constant and conductance of solutions. 5. Potentiometry - redox potentials and emfs. 6. Strength of an acid in Pb-Acid battery. 7. Preparation of Bakelite. 8. Verify Lambert-Beer’s law. 9. Wavelength measurement of sample through UV-Visible Spectroscopy. 10. Identification of simple organic compounds by IR. 11. Preparation of nanomaterials by precipitation method. 12. Estimation of Ferrous Iron by Dichrometry.
+
+[[PAGE 48-49]]
+FUNDAMENTAL CHEMISTRY (Food Technology & allied branches, L-T-P-C: 3-0-0-3)
+Outcomes: CO1: Compare materials for battery and electrochemical sensors. CO2: Explain thermoplastics, thermosetting, elastomers & conducting polymers. CO3: Distinguish principles of spectrometry, solid liquid chromatography. CO4: Apply Beer Lambert’s Law. CO5: Illustrate conductometric and pH metric titrations.
+UNIT I Structure and Bonding Models: Planck's quantum theory, dual nature of matter, Schrodinger wave equation, significance of Ψ and Ψ2, applications to hydrogen, Molecular Orbital Theory – homo- and heteronuclear diatomic molecules – Energy level diagrams of O2 and CO, etc. π-molecular orbitals of butadiene and benzene, bond order.
+UNIT II Electrochemistry and Applications: Reference electrodes (Calomel, glass electrode), electrochemical cell, Nernst equation, numerical problems, pH meter and pH metry (acid-base titrations), conductivity, conductivity cell, conductometric titrations. Electrochemical sensors – potentiometric sensors. Primary cells – Zinc-air battery, Secondary cells – Nickel-Cadmium and lithium ion batteries; Fuel cells - hydrogen-oxygen fuel cells.
+UNIT III Polymer Chemistry: Functionality of monomers, chain growth and step growth polymerization. Thermoplastics and Thermosettings: PVC, Bakelite, Nylon-6,6, carbon fibres. Elastomers: Buna-S, Buna-N. Biodegradable polymers: Poly β-hydroxybutyrate-co-β-hydroxyvalerate (PHBV), polyhydroxybutyrate (PHB) and applications.
+UNIT IV Instrumental Methods and Applications: Electromagnetic spectrum, Beer-Lambert’s law, UV-Visible Spectroscopy, IR spectroscopies, Chromatography: HPLC, Thin Layer Chromatography (TLC) and applications.
+UNIT V Surface Chemistry and Nano Materials: Colloids, nanometals and nanometal oxides, micelle formation, Braggs Method, stabilization, adsorption isotherm (Freundlich and Langmuir), BET equation (no derivation), applications in catalysis, medicine, sensors.
+Textbooks: 1. Jain and Jain, Engineering Chemistry, 16/e, Dhanpat Rai, 2013. 2. Peter Atkins et al., Atkins’ Physical Chemistry, 10/e, Oxford University Press, 2010.
+
+[[PAGE 50]]
+FUNDAMENTAL CHEMISTRY LAB (Food Technology & allied branches, L-T-P-C: 0-0-2-1)
+Outcomes: CO1: Cell constant and conductance. CO2: Prepare advanced polymer materials. CO3: Measure strength of acid in secondary batteries. CO4: Analyze IR spectra. CO5: Compare conductometric and pH metric titrations.
+List of Experiments: 1. 10Dq by spectrophotometric method. 2. pH metric titration of strong acid vs strong base. 3. pH metric titration of weak acid vs strong base. 4. Conductometric titration of weak acid vs strong base. 5. Cell constant and conductance. 6. Strength of acid in Pb-Acid battery. 7. Preparation of Bakelite. 8. Viscosity of polymer solution using viscometer. 9. Verify Lambert-Beer’s law. 10. Separation of Organic Mixtures by Thin Layer Chromatography (TLC). 11. Identification of simple organic compounds by IR. 12. Preparation of nanomaterials by precipitation method. 13. Adsorption of acetic acid by charcoal.
+
+[[PAGE 51-53]]
+BASIC CIVIL AND MECHANICAL ENGINEERING (Common to All branches, L-T-P-C: 3-0-0-3)
+PART A: BASIC CIVIL ENGINEERING
+Objectives: Scope of Civil Engineering sub-divisions; preliminary concepts of surveying; Transportation importance; quality, conveyance and storage of water; basic civil engineering materials and construction techniques.
+Outcomes: CO1: Understand various sub-divisions of Civil Engineering. CO2: Measurement of distances, angles and levels through surveying. CO3: Realize importance of Transportation and engineering measures. CO4: Understand Water Storage and Conveyance Structures. CO5: Understand basic characteristics of Civil Engineering Materials and prefabricated technology.
+UNIT I Basics of Civil Engineering: Role of Civil Engineers in Society - Various Disciplines: Structural, Geo-technical, Transportation, Hydraulics and Water Resources, Environmental Engineering - Scope of each discipline - Building Construction and Planning - Construction Materials: Cement, Aggregate, Bricks, Cement concrete, Steel. Introduction to Prefabricated construction Techniques.
+UNIT II Surveying: Objectives of Surveying - Horizontal Measurements - Angular Measurements - Introduction to Bearings - Levelling instruments used for levelling - Simple problems on levelling and bearings - Contour mapping.
+UNIT III Transportation Engineering: Importance in Nation's economic development - Types of Highway Pavements - Flexible Pavements and Rigid Pavements - Simple Differences. Basics of Harbour, Tunnel, Airport, and Railway Engineering. Water Resources and Environmental Engineering: Sources of water - Quality of water - Specifications - Introduction to Hydrology – Rainwater Harvesting - Water Storage and Conveyance Structures (Simple introduction to Dams and Reservoirs).
+Textbooks (Part A): 1. Basic Civil Engineering, M.S. Palanisamy, Tata McGraw Hill, 4th Ed. 2. Introduction to Civil Engineering, S.S. Bhavikatti, New Age International, 2022, 1st Ed. 3. Basic Civil Engineering, Satheesh Gopi, Pearson, 2009, 1st Ed.
+PART B: BASIC MECHANICAL ENGINEERING
+Objectives: Scope and importance of Mechanical Engineering in different sectors; engineering materials and manufacturing processes; thermal and mechanical transmission systems; basics of robotics.
+Outcomes: CO1: Understand different manufacturing processes. CO2: Explain basics of thermal engineering and applications. CO3: Describe working of mechanical power transmission systems and power plants. CO4: Describe basics of robotics and applications.
+UNIT I Introduction to Mechanical Engineering: Role of Mechanical Engineering in Industries and Society - Technologies in Energy, Manufacturing, Automotive, Aerospace, and Marine sectors. Engineering Materials: Metals - Ferrous and Non-ferrous, Ceramics, Composites, Smart materials.
+UNIT II Manufacturing Processes: Principles of Casting, Forming, joining processes, Machining, Introduction to CNC machines, 3D printing, and Smart manufacturing. Thermal Engineering: Working principle of Boilers, Otto cycle, Diesel cycle, Refrigeration and air-conditioning cycles, IC engines, 2-Stroke and 4-Stroke engines, SI/CI Engines, Components of Electric and Hybrid Vehicles.
+UNIT III Power plants: Working principle of Steam, Diesel, Hydro, Nuclear power plants. Mechanical Power Transmission: Belt Drives, Chain, Rope drives, Gear Drives and their applications. Introduction to Robotics: Joints & links, configurations, and applications of robotics.
+Textbooks (Part B): 1. Internal Combustion Engines by V. Ganesan, Tata McGraw Hill. 2. A text book of Theory of Machines by S.S. Rattan, Tata McGraw Hill. 3. An introduction to Mechanical Engg by Jonathan Wickert and Kemper Lewis, Cengage learning.
+
+[[PAGE 54-55]]
+ENGINEERING WORKSHOP (Common to All branches, L-T-P-C: 0-0-3-1.5)
+Objectives: Familiarize students with wood working, sheet metal operations, fitting, electrical house wiring skills, and basic repairs of two-wheeler vehicle.
+Outcomes: CO1: Identify workshop tools and operational capabilities. CO2: Practice on manufacturing components using fitting, carpentry, foundry and welding. CO3: Apply fitting operations. CO4: Apply basic electrical engineering knowledge for House Wiring Practice.
+SYLLABUS: 1. Demonstration: Safety practices and precautions. 2. Wood Working: Woods and tools; make: a) Half-Lap joint b) Mortise and Tenon joint c) Corner Dovetail joint or Bridle joint. 3. Sheet Metal Working: Tools and developments from GI sheets: a) Tapered tray b) Conical funnel c) Elbow pipe d) Brazing. 4. Fitting: Tools and exercises: a) V-fit b) Dovetail fit c) Semi-circular fit d) Bicycle tire puncture and change of two-wheeler tyre. 5. Electrical Wiring: Basic circuits and connections: a) Parallel and series b) Two-way switch c) Godown lighting d) Tube light e) Three phase motor f) Soldering of wires. 6. Foundry Trade: Moulding tools and processes, Preparation of Green Sand Moulds for given Patterns. 7. Welding Shop: Arc Welding and Gas welding. Preparation of Lap joint and Butt joint. 8. Plumbing: Plumbing tools, Preparation of Pipe joints with coupling for same diameter and with reducer for different diameters. 9. Basic repairs of Two-wheeler vehicle – Demonstration of working and repairs.
+Textbooks: 1. Basic Workshop Technology: Manufacturing Process, Felix W., 2019; Workshop Processes, Practices and Materials, Bruce J. Black, Routledge, 5th Ed 2015. 2. A Course in Workshop Technology Vol I & II, B.S. Raghuwanshi, Dhanpat Rai & Co., 2015 & 2017.
+
+[[PAGE 56-58]]
+BASIC ELECTRICAL & ELECTRONICS ENGINEERING (Common to All branches, L-T-P-C: 3-0-0-3)
+PART A: BASIC ELECTRICAL ENGINEERING
+Outcomes: CO1: Describe fundamental laws, operating principles of motors/generators, MC/MI instruments (L2). CO2: Demonstrate working of electrical machines, measuring instruments and power generation stations (L2). CO3: Apply mathematical tools and fundamental concepts to derive equations related to electrical circuits and machines (L3). CO4: Calculate electrical load and electricity bill of residential and commercial buildings (L4).
+UNIT I DC & AC Circuits: DC Circuits: Circuit elements (R, L and C), Ohm’s Law and limitations, KCL & KVL, series, parallel, series-parallel circuits, Superposition theorem, Simple numerical problems. AC Circuits: Equation of AC Voltage and current, waveform, time period, frequency, amplitude, phase, phase difference, average value, RMS value, form factor, peak factor, Voltage and current relationship with phasor diagrams in R, L, and C circuits, Concept of Impedance, Active power, reactive power and apparent power, Concept of power factor (Simple Numerical problems).
+UNIT II Machines and Measuring Instruments: Machines: Construction, principle and operation of (i) DC Motor, (ii) DC Generator, (iii) Single Phase Transformer, (iv) Three Phase Induction Motor and (v) Alternator, Applications of electrical machines. Measuring Instruments: Construction and working principle of Permanent Magnet Moving Coil (PMMC), Moving Iron (MI) Instruments and Wheatstone bridge.
+UNIT III Energy Resources, Electricity Bill & Safety Measures: Energy Resources: Conventional and non-conventional energy resources; Layout and operation of Hydel, Nuclear, Solar & Wind power generation. Electricity bill: Power rating of household appliances (ACs, PCs, Laptops, Printers, etc.), Definition of “unit” for electrical energy consumption, two-part electricity tariff, calculation of electricity bill for domestic consumers. Equipment Safety Measures: Working principle of Fuse and Miniature circuit breaker (MCB), merits and demerits. Personal safety measures: Electric Shock, Earthing and its types, Safety Precautions to avoid shock.
+Textbooks (Part A): 1. Basic Electrical Engineering, D. C. Kulshreshtha, Tata McGraw Hill, 2019, 1st Ed. 2. Power System Engineering, P.V. Gupta et al., Dhanpat Rai & Co, 2013. 3. Fundamentals of Electrical Engineering, Rajendra Prasad, PHI, 2014, 3rd Ed.
+PART B: BASIC ELECTRONICS ENGINEERING
+Objectives: Teach fundamentals of semiconductor devices and applications, principles of digital electronics.
+UNIT I SEMICONDUCTOR DEVICES: Evolution of electronics – Vacuum tubes to nano electronics - Characteristics of PN Junction Diode — Zener Effect — Zener Diode and its Characteristics. Bipolar Junction Transistor — CB, CE, CC Configurations and Characteristics — Elementary Treatment of Small Signal CE Amplifier.
+UNIT II BASIC ELECTRONIC CIRCUITS AND INSTRUMENTATION: Rectifiers and power supplies: Block diagram description of a DC power supply, working of full wave bridge rectifier, capacitor filter (no analysis), working of simple zener voltage regulator. Amplifiers: Block diagram of Public Address system, Circuit diagram and working of common emitter (RC coupled) amplifier with its frequency response. Electronic Instrumentation: Block diagram of an electronic instrumentation system.
+UNIT III DIGITAL ELECTRONICS: Overview of Number Systems, Logic gates including Universal Gates, BCD codes, Excess-3 code, Gray code, Hamming code. Boolean Algebra, Basic Theorems and properties of Boolean Algebra, Truth Tables and Functionality of Logic Gates – NOT, OR, AND, NOR, NAND, XOR and XNOR. Simple combinational circuits – Half and Full Adders. Introduction to sequential circuits, Flip flops, Registers and counters (Elementary Treatment only).
+Textbooks (Part B): 1. R. L. Boylestad & Louis Nashelsky, Electronic Devices & Circuit Theory, Pearson, 2021. 2. R. P. Jain, Modern Digital Electronics, 4th Ed, Tata McGraw Hill, 2009.
+End examination pattern: Two parts (Part A and Part B) with equal weightage of 35 marks each. In each part, Q1 contains 5 compulsory short answer questions (1 mark each = 5 marks), and Q2 to Q4 are either/or type questions of 10 marks each covering one unit per question.
+
+[[PAGE 59-61]]
+ELECTRICAL & ELECTRONICS ENGINEERING WORKSHOP (Common to All branches, L-T-P-C: 0-0-3-1.5)
+Activities: 1. Familiarization of Workshop Tools (Breadboard, Solder, cables, relays, switches, connectors, fuses, Cutter, plier, screwdriver set, wire stripper, flux, knife/blade, soldering iron, de-soldering pump etc.). 2. Familiarization of Measuring Instruments (Voltmeters, Ammeters, multimeter, LCR-Q meter, Power Supplies, CRO, DSO, Function Generator, Frequency counter). 3. Familiarization/Testing of components (Resistors, Capacitors, Inductors, Diodes, transistors, ICs etc.).
+PART A: ELECTRICAL ENGINEERING LAB (Minimum Six Experiments to be performed)
+Outcomes: CO1: Measure voltage, current and power in an electrical circuit (L3). CO2: Measure Resistance using Wheatstone bridge (L4). CO3: Discover critical field resistance and critical speed of DC shunt generators (L4). CO4: Investigate effect of reactive power and power factor in electrical loads (L5).
+List of experiments: 1. Verification of KCL and KVL. 2. Verification of Superposition theorem. 3. Measurement of Resistance using Wheatstone bridge. 4. Magnetization Characteristics of DC shunt Generator. 5. Measurement of Power and Power factor using Single-phase wattmeter. 6. Measurement of Earth Resistance using Megger. 7. Calculation of Electrical Energy for Domestic Premises.
+PART B: ELECTRONICS ENGINEERING LAB (Minimum Six Experiments to be performed using both Hardware and Software)
+Outcomes: CO1: Identify & testing of various electronic components. CO2: Understand usage of electronic measuring instruments. CO3: Plot and discuss characteristics of various electron devices. CO4: Explain operation of a digital circuit.
+List of Experiments: 1. Plot V-I characteristics of PN Junction diode A) Forward bias B) Reverse bias. 2. Plot V-I characteristics of Zener Diode and its application as voltage Regulator. 3. Implementation of half wave and full wave rectifiers. 4. Plot Input & Output characteristics of BJT in CE and CB configurations. 5. Frequency response of CE amplifier. 6. Simulation of RC coupled amplifier with the design supplied. 7. Verification of Truth Table of AND, OR, NOT, NAND, NOR, Ex-OR, Ex-NOR gates using ICs. 8. Verification of Truth Tables of S-R, J-K & D flip flops using respective ICs.
+
+[[PAGE 62-64]]
+IT WORKSHOP (Common to all branches, L-T-P-C: 0-0-2-1)
+Objectives: Introduce internal parts of a computer, peripherals, I/O ports, connecting cables; dual boot Windows and Linux/BOSS; basic CLI commands on Linux; Internet usage and cyber hygiene; LaTeX, Word, Excel, PowerPoint, and AI Tools (ChatGPT).
+Outcomes: CO1: Perform Hardware troubleshooting. CO2: Understand Hardware components and interdependencies. CO3: Safeguard computer systems from viruses/worms. CO4: Document/Presentation preparation. CO5: Perform calculations using spreadsheets.
+Tasks:
+- PC Hardware & Software Installation: Task 1: Identify peripherals and CPU components, draw block diagram. Task 2: Disassemble and assemble PC back to working condition. Task 3: Install MS Windows. Task 4: Install Linux (dual boot/VMWare with Windows). Task 5: Install BOSS (dual boot/VMWare with Windows).
+- Internet & World Wide Web: Task 1: Orientation & Connectivity Boot Camp (LAN, TCP/IP settings, access websites/email). Task 2: Web Browsers, Surfing the Web (LAN proxy, bookmarks, pop-up blockers, plug-ins). Task 3: Search Engines & Netiquette. Task 4: Cyber Hygiene (configure browser safety, block active x/pop-ups to avoid viruses/worms).
+- LaTeX and WORD: Task 1: Word & LaTeX Orientation. Task 2: Create a project certificate (Formatting Fonts, Drop Cap, Text effects, Character Spacing, Borders/Colors, Header/Footer, Date/Time in LaTeX and Word). Task 3: Creating project abstract (Formatting Styles, Inserting table, Bullets/Numbering, Text Direction, Cell alignment, Footnote, Hyperlink, Symbols, Spell Check, Track Changes). Task 4: Creating a Newsletter (Table of Content, Newspaper columns, Images/clipart, Drawing toolbar/WordArt, Formatting Images, Textboxes, Paragraphs, Mail Merge).
+- EXCEL: Orientation. Task 1: Creating a Scheduler (Gridlines, Format Cells, Summation, auto fill, Formatting Text). Task 2: Calculating GPA (Cell Referencing, Formulae – average, std. deviation, Charts, Renaming/Inserting worksheets, Hyper linking, Count function, LOOKUP/VLOOKUP). Task 3: Split cells, freeze panes, group and outline, Sorting, Boolean and logical operators, Conditional formatting.
+- POWER POINT: Task 1: Basic utilities (PPT Orientation, Slide Layouts, Inserting Text, Word Art, Formatting Text, Bullets/Numbering, Auto Shapes, Lines and Arrows). Task 2: Interactive presentations (Hyperlinks, Inserting Images, Clip Art, Audio, Video, Objects, Tables and Charts). Task 3: Master Layouts, Types of views, Inserting Background, textures, Design Templates, Hidden slides.
+- AI TOOLS – ChatGPT: Task 1: Prompt Engineering. Task 2: Creative Writing. Task 3: Language Translation.
+
+[[PAGE 65-66]]
+ENGINEERING GRAPHICS (Common to All branches, L-T-P-C: 1-0-4-3)
+Objectives: Dimensioning, conventions and standards related to Engineering Drawing; projection of points, lines, plane surfaces, solids; Section of solids and Developments of surfaces; Isometric and Perspective projections.
+Outcomes: CO1: Understand principles of engineering drawing, curves, scales, orthographic and isometric projections. CO2: Draw and interpret orthographic projections of points, lines, planes and solids in front, top and side views. CO3: Understand and draw projection of solids in various positions in first quadrant. CO4: Explain principles behind development of surfaces. CO5: Prepare isometric and perspective sections of simple solids.
+UNIT I: Introduction: Lines, Lettering and Dimensioning, Geometrical Constructions and Constructing regular polygons by general methods. Curves: construction of ellipse, parabola and hyperbola by general methods, Cycloids, Involutes, Normal and tangent to Curves. Scales: Plain scales, diagonal scales and vernier scales.
+UNIT II: Orthographic Projections: Reference plane, importance of reference lines or Plane, Projections of a point situated in any one of the four quadrants. Projections of Straight Lines: parallel to both reference planes, perpendicular to one and parallel to other, inclined to one and parallel to other, Inclined to both reference planes. Projections of Planes: regular planes Perpendicular to both reference planes, parallel to one and inclined to other, plane inclined to both reference planes.
+UNIT III: Projections of Solids: Types of solids: Polyhedra and Solids of revolution. Projections of solids in simple positions: Axis perpendicular to horizontal plane, Axis perpendicular to vertical plane and Axis parallel to both reference planes, Projection of Solids with axis inclined to one reference plane and parallel to another plane.
+UNIT IV: Sections of Solids: Perpendicular and inclined section planes, Sectional views and True shape of section, Sections of solids in simple position only. Development of Surfaces: Parallel line development and radial line development. Development of a cube, prism, cylinder, pyramid and cone.
+UNIT V: Conversion of Views: Conversion of isometric views to orthographic views; Conversion of orthographic views to isometric views. Computer graphics: Creating 2D & 3D drawings of objects including PCB and Transformations using AutoCAD (Not for end examination).
+Textbook: 1. N. D. Bhatt, Engineering Drawing, Charotar Publishing House, 2016.
+
+[[PAGE 67-68]]
+INTRODUCTION TO PROGRAMMING (Common to All branches, L-T-P-C: 3-0-0-3, C Language)
+Objectives: Fundamentals of computer programming; hands-on coding and debugging; logical thinking and problem-solving; data types, control structures, functions, arrays.
+Outcomes: CO1: Understand basics of computers, algorithm and algorithmic thinking. CO2: Analyse a problem and develop an algorithm to solve it. CO3: Implement various algorithms using C programming language. CO4: Understand more advanced features of C language. CO5: Develop problem-solving skills and ability to debug and optimize code.
+UNIT I Introduction to Programming and Problem Solving: History of Computers, Basic organization of a computer: ALU, input-output units, memory, program counter, Introduction to Programming Languages, Basics of a Computer Program - Algorithms, flowcharts (Using Dia Tool), pseudo code. Introduction to Compilation and Execution, Primitive Data Types, Variables, and Constants, Basic Input and Output, Operations, Type Conversion, and Casting. Problem solving techniques: Algorithmic approach, characteristics of algorithm, Problem solving strategies: Top-down approach, Bottom-up approach, Time and space complexities of algorithms.
+UNIT II Control Structures: Simple sequential programs, Conditional Statements (if, if-else, switch), Loops (for, while, do-while), Break and Continue.
+UNIT III Arrays and Strings: Arrays indexing, memory model, programs with array of integers, two dimensional arrays, Introduction to Strings.
+UNIT IV Pointers & User Defined Data types: Pointers, dereferencing and address operators, pointer and address arithmetic, array manipulation using pointers, User-defined data types - Structures and Unions.
+UNIT V Functions & File Handling: Introduction to Functions, Function Declaration and Definition, Function call Return Types and Arguments, modifying parameters inside functions using pointers, arrays as parameters. Scope and Lifetime of Variables, Basics of File Handling.
+Textbooks: 1. "The C Programming Language", Brian W. Kernighan and Dennis M. Ritchie, Prentice-Hall, 1988. 2. Schaum’s Outline of Programming with C, Byron S Gottfried, McGraw-Hill Education, 1996.
+
+[[PAGE 69-73]]
+COMPUTER PROGRAMMING LAB (Common to All branches, L-T-P-C: 0-0-3-1.5)
+Outcomes: CO1: Read, understand, and trace execution of C programs. CO2: Select right control structure for solving the problem. CO3: Develop C programs utilizing memory efficiently using pointers. CO4: Develop, Debug and Execute programs demonstrating arrays, functions, pointers in C.
+UNIT I:
+- WEEK 1: Familiarization with programming environment (Linux editors Vi, Vim, Emacs; Turbo C, gcc; simple programs using printf(), scanf()).
+- WEEK 2: Converting algorithms/flowcharts into C Source code: i) Sum and average of 3 numbers ii) Conversion of Fahrenheit to Celsius and vice versa iii) Simple interest calculation.
+- WEEK 3: Variable types and type conversions / arithmetic expressions: i) Square root of a given number ii) Compound interest iii) Area of a triangle using Heron’s formulae iv) Distance travelled by an object.
+UNIT II:
+- WEEK 4: Operator precedence and associativity: i) Evaluate expressions: a. A+B*C+(D*E)+F*G, b. A/B*C-B+A*D/3, c. A+++B---A, d. J=(i++)+(++i) ii) Maximum of three numbers using conditional operator iii) Take marks of 5 subjects in integers, find total and average in float.
+- WEEK 5: Branching and logical expressions (if-then-else, switch): i) Max and min of four numbers using if-else ii) Generate electricity bill iii) Roots of quadratic equation iv) Simulate a calculator using switch case v) Leap year or not.
+- WEEK 6: Loops (while, do-while, for, break, continue): i) Factorial of given number ii) Prime or not iii) Compute sine and cos series iv) Checking a number palindrome v) Construct a pyramid of numbers.
+UNIT III:
+- WEEK 7: 1D Arrays & linear search: i) Min and max of a 1-D integer array ii) Perform linear search on 1D array iii) Reverse of a 1D integer array iv) 2’s complement of the given binary number v) Eliminate duplicate elements in an array.
+- WEEK 8: 2D arrays, sorting and Strings: i) Addition of two matrices ii) Multiplication of two matrices iii) Sort array elements using bubble sort iv) Concatenate two strings without built-in functions v) Reverse a string using built-in and without built-in string functions.
+UNIT IV:
+- WEEK 9: Pointers, structures and dynamic memory allocation (malloc, calloc, realloc, free, command-line arguments): i) Sum of a 1D array using malloc() ii) Total, average of n students using structures iii) Enter n students data using calloc() and display failed students list iv) Read student name and marks from command line and display details with total v) Implement realloc().
+- WEEK 10: Bitfields, Self-Referential Structures, Linked lists, Unions: Read and print a date using dd/mm/yyyy format using bit-fields and differentiate without bit-fields; i) Create and display a singly linked list using self-referential structure ii) Demonstrate differences between structures and unions iii) Shift/rotate using bitfields iv) Copy one structure variable to another of same type.
+UNIT V:
+- WEEK 11: Functions, call by value, scope and extent: i) Calculate NCR value ii) Find length of a string iii) Transpose of a matrix iv) Demonstrate numerical integration of differential equations using Euler’s method.
+- WEEK 12: Recursive functions: i) Generate Fibonacci series ii) Find LCM of two numbers iii) Find factorial of a number iv) Implement Ackermann function using recursion v) Find sum of series.
+- WEEK 13: Call by reference, dangling pointers: i) Swap two numbers using call by reference ii) Demonstrate Dangling pointer problem iii) Copy one string into another using pointer iv) Find no of lowercase, uppercase, digits and other characters using pointers.
+- WEEK 14: File handling (text and binary files): i) Write and read text into a file ii) Write and read text into a binary file using fread() and fwrite() iii) Copy contents of one file to another file iv) Merge two files into the third file using command-line arguments v) Find no. of lines, words and characters in a file vi) Print last n characters of a given file.
+Textbooks: 1. Ajay Mittal, Programming in C: A practical approach, Pearson. 2. Byron Gottfried, Schaum's Outline of Programming with C, McGraw Hill.
+
+[[PAGE 74-75]]
+ENGINEERING MECHANICS (Common to Civil, Mechanical Engineering & Allied branches, L-T-P-C: 3-0-0-3)
+Outcomes: CO1: Understand fundamental concepts in mechanics and determine frictional forces for bodies in contact. CO2: Analyze concurrent, coplanar and spatial force systems and calculate resultant forces and moments. CO3: Calculate centroids, center of gravity and moment of inertia of geometrical shapes. CO4: Apply work-energy and impulse-momentum principles to rectilinear and curvilinear motion of a particle. CO5: Solve problems involving translational and rotational motion of rigid bodies.
+UNIT I: Introduction to Engineering Mechanics – Basic Concepts, Scope and Applications. Systems of Forces: Coplanar Concurrent Forces – Components in Space – Resultant – Moment of Force and its Application – Couples and Resultant of Force Systems. Friction: Limiting friction and impending motion, Coulomb’s laws of dry friction, coefficient of friction, Cone of Static friction.
+UNIT II: Equilibrium of Systems of Forces: Free Body Diagrams, Lami’s Theorem, Equations of Equilibrium of Coplanar Systems, Graphical method for equilibrium, Triangle law of forces, converse of law of polygon of forces, condition of equilibrium, Equations of Equilibrium for Spatial System of forces, Numerical examples on spatial system of forces using vector approach, Analysis of plane trusses. Principle of virtual work with simple examples.
+UNIT III: Centroid: Centroids of simple figures (from basic principles) – Centroids of Composite Figures. Centre of Gravity: Centre of gravity of simple body (from basic principles), Centre of gravity of composite bodies, Pappus theorems. Area Moments of Inertia: Definition – Polar Moment of Inertia, Transfer Theorem, Moments of Inertia of Composite Figures, Products of Inertia, Transfer Formula for Product of Inertia. Mass Moment of Inertia: Moment of Inertia of Masses, Transfer Formula for Mass Moments of Inertia, Mass Moment of Inertia of composite bodies.
+UNIT IV: Rectilinear and Curvilinear motion of a particle: Kinematics and Kinetics – D’Alembert’s Principle - Work Energy method and applications to particle motion - Impulse Momentum method.
+UNIT V: Rigid body Motion: Kinematics and Kinetics of translation, Rotation about fixed axis and plane motion, Work Energy method and Impulse Momentum method.
+Textbooks: 1. Engineering Mechanics, S. Timoshenko, D. H. Young, J.V. Rao, S. Pati, McGraw Hill Education, 2017, 5th Ed. 2. Engineering Mechanics, P.C. Dumir, S. Sengupta and Srinivas V Veeravalli, University Press, 2020, 1st Ed. 3. A Textbook of Engineering Mechanics, S.S. Bhavikatti, New Age International, 2018, 4th Ed.
+
+[[PAGE 76]]
+ENGINEERING MECHANICS & BUILDING PRACTICES LAB (Civil Engineering & allied branches, L-T-P-C: 0-0-3-1.5)
+Outcomes: CO1: Evaluate coefficient of friction. CO2: Verify Law of Parallelogram of forces and Law of Moment. CO3: Determine Centre of gravity of different configurations. CO4: Understand Quality Testing, Assessment Procedures and Non-Destructive Testing. CO5: Exposure to safety practices in construction industry.
+Experiments (Perform any 10): 1. Study various types of tools used in construction. 2. Forces in Pin Jointed Trusses. 3. Experimental Proof of Lami’s Theorem. 4. Verification of Law of Parallelogram of Forces. 5. Center of Gravity of different shaped Plane Lamina. 6. Coefficient of Static and Rolling Friction. 7. Verification of Law of Moment using Rotation Disc Apparatus and Bell Crank Lever. 8. Study of Alternative Materials like M-sand, Fly ash, Sea Sand etc. 9. Field-Visit to understand Quality Testing - report. 10. Safety Practices in Construction industry. 11. Demonstration of Non-Destructive Testing - using Rebound Hammer & UPV. 12. Study of Plumbing in buildings.
+
+[[PAGE 77]]
+ENGINEERING MECHANICS LAB (Mechanical Engineering & allied branches, L-T-P-C: 0-0-3-1.5)
+Outcomes: CO1: Evaluate coefficient of friction. CO2: Verify Law of Polygon of forces and Law of Moment. CO3: Determine Centre of gravity and Moment of Inertia. CO4: Verify equilibrium conditions of a rigid body under different force systems.
+List of Experiments (Perform any 10): 1. Verification of Law of Parallelogram of Forces. 2. Verification of Law of Triangle of Forces. 3. Verification of Law of polygon for coplanar-concurrent forces acting on a particle in equilibrium using universal force table. 4. Coefficient of Static and Rolling Frictions. 5. Centre of Gravity of different shaped Plane Lamina. 6. Verification of conditions of equilibrium of a rigid body under coplanar non-concurrent, parallel force system with a simply supported beam. 7. Study of systems of pulleys and draw free body diagram. 8. Acceleration due to gravity using a compound pendulum. 9. Moment of Inertia of the compound pendulum about an axis perpendicular to the plane of oscillation and passing through its centre of mass. 10. Moment of Inertia of a Flywheel. 11. Verification of Law of Moment using Rotation Disc Apparatus and Bell Crank Lever.
+
+[[PAGE 78-79]]
+ELECTRICAL CIRCUIT ANALYSIS - I (EEE & allied branches, L-T-P-C: 3-0-0-3)
+Outcomes: CO1: Remembering basic electrical elements and fundamental laws. CO2: Understand network reduction techniques, transformations, self and mutual inductance, phasor diagrams, resonance and network theorems. CO3: Apply concepts to obtain mathematical and graphical representations. CO4: Analyse nodal and mesh networks, series and parallel circuits, steady state response, different circuit topologies (R, L and C). CO5: Evaluation of Network theorems, electrical, magnetic and single-phase circuits.
+UNIT I INTRODUCTION TO ELECTRICAL CIRCUITS: Passive elements of R, L, C and their V-I relations, Sources (dependent and independent), Kirchhoff’s laws, Network reduction techniques (series, parallel, series-parallel, star-to-delta and delta-to-star transformation), source transformation technique, nodal analysis and mesh analysis to DC networks with dependent and independent voltage and current sources.
+UNIT II MAGNETIC CIRCUITS: Basic definition of MMF, flux and reluctance, analogy between electrical and magnetic circuits, Faraday’s laws of electromagnetic induction – concept of self and mutual inductance, Dot convention – coefficient of coupling and composite magnetic circuit, analysis of series and parallel magnetic circuits.
+UNIT III SINGLE PHASE CIRCUITS: Characteristics of periodic functions, Average value, R.M.S. value, form factor, representation of a sine function, concept of phasor, phasor diagrams, node and mesh analysis. Steady state analysis of R, L and C circuits to sinusoidal excitations - response of pure resistance, inductance, capacitance, series RL circuit, series RC circuit, series RLC circuit, parallel RL circuit, parallel RC circuit.
+UNIT IV RESONANCE AND LOCUS DIAGRAMS: Series Resonance: Characteristics of a series resonant circuit, Q-factor, selectivity and bandwidth, expression for half power frequencies; Parallel resonance: Q-factor, selectivity and bandwidth; Locus diagram: RL, RC, RLC with R, L and C variables.
+UNIT V NETWORK THEOREMS (DC & AC EXCITATIONS): Superposition theorem, Thevenin’s theorem, Norton’s theorem, Maximum Power Transfer theorem, Reciprocity theorem, Millman’s theorem and compensation theorem.
+Textbooks: 1. Engineering Circuits Analysis, Jack Kemmerly, William Hayt and Steven Durbin, Tata McGraw Hill, 2005, 6th Ed. 2. Network Analysis, M. E. Van Valkenburg, Pearson Education, 2019, Revised 3rd Ed.
+
+[[PAGE 80]]
+ELECTRICAL CIRCUITS LAB (EEE & allied branches, L-T-P-C: 0-0-3-1.5)
+Outcomes: CO1: Understand network theorems, node and mesh networks, series/parallel resonance and Locus diagrams. CO2: Apply theorems to compare practical results with theoretical calculations. CO3: Determine self, mutual inductances, coefficient of coupling, parameters of choke coil. CO4: Analyse circuit characteristics. CO5: Create locus diagrams of RL, RC series circuits and examine resonance.
+List of Experiments: 1. Verification of Kirchhoff's circuit laws. 2. Verification of node and mesh analysis. 3. Verification of network reduction techniques. 4. Cold and hot resistance of an electric lamp. 5. Parameters of a choke coil. 6. Self, mutual inductances, and coefficient of coupling. 7. Series and parallel resonance. 8. Locus diagrams of R-L (L Variable) and R-C (C Variable) series circuits. 9. Verification of Superposition theorem. 10. Verification of Thevenin’s and Norton’s Theorems. 11. Verification of Maximum power transfer theorem. 12. Verification of Compensation theorem. 13. Verification of Reciprocity and Millman’s Theorems.
+
+[[PAGE 81-82]]
+NETWORK ANALYSIS (ECE & allied branches, L-T-P-C: 3-0-0-3)
+Outcomes: CO1: Understand basic electrical circuits with nodal and mesh analysis. CO2: Analyse circuit using network simplification theorems. CO3: Find Transient response and Steady state response of a network. CO4: Analyse electrical networks in the Laplace domain. CO5: Compute parameters of a two-port network.
+UNIT I: Types of circuit components, Types of Sources and Source Transformations, Mesh analysis and Nodal analysis, problem solving with resistances only including dependent sources also. Principle of Duality with examples. Network Theorems: Thevenin’s, Norton’s, Millman’s, Reciprocity, Compensation, Substitution, Superposition, Max Power Transfer, Tellegen’s - problem solving using dependent sources also.
+UNIT II: Transients: First order differential equations, Definition of time constants, R-L circuit, R-C circuit with DC excitation, evaluating initial conditions procedure, second order differential equations, homogeneous, non-homogenous, problem-solving using R-L-C elements with DC excitation and AC excitation, Response as related to s-plane rotation of roots. Laplace transform: introduction, Laplace transformation, basic theorems, problem solving using Laplace transform, partial fraction expansion, Heaviside’s expansions.
+UNIT III: Steady State Analysis of A.C Circuits: Impedance concept, phase angle, series R-L, R-C, R-L-C circuits problem solving. Complex impedance and phasor notation for R-L, R-C, R-L-C problem solving using mesh and nodal analysis, Star-Delta conversion, problem solving using Laplace transforms also.
+UNIT IV: Resonance: Definition of Q, Series resonance, Bandwidth of series resonance, Parallel resonance, general case-resistance present in both branches, anti-resonance at all frequencies. Coupled Circuits: Self-inductance, Mutual inductance, Coefficient of coupling, analysis of coupled circuits, Natural current, Dot rule of coupled circuits, conductively coupled equivalent circuits- problem solving.
+UNIT V: Two-port Networks: Relationship of two port networks, Z-parameters, Y-parameters, Transmission line parameters, h-parameters, Relationships Between Parameter Sets, Parallel & series connection of two port networks, cascading of two port networks, problem solving using dependent sources also. Image and iterative impedances. Image and iterative transfer constants. Insertion loss. Attenuators and pads. Lattice network and its parameters. Impedance matching networks.
+Textbooks: 1. Network Analysis – M.E. Van Valkenburg, Prentice Hall of India, revised 3rd Ed, 2019. 2. Engineering Circuit Analysis by William H. Hayt, Jack Kemmerly, Jamie Phillips, Steven M. Durbin, 9th Ed 2020. 3. Network lines and Fields by John. D. Ryder, 2nd Ed, PHI.
+
+[[PAGE 83-84]]
+NETWORK ANALYSIS AND SIMULATION LABORATORY (ECE & allied branches, L-T-P-C: 0-0-3-1.5)
+Outcomes: CO1: Verify Kirchhoff’s laws and network theorems. CO2: Measure time constants of RL & RC circuits. CO3: Analyze behavior of RLC circuit. CO4: Design resonant circuit for given specifications. CO5: Characterize and model network in terms of all network parameters.
+Experiments (Performed using both Hardware and simulation Software like Multisim/Pspice): 1. Study of components of a circuit and Verification of KCL and KVL. 2. Verification of mesh and nodal analysis for AC circuits. 3. Verification of Superposition, Thevenin’s & Norton theorems for AC circuits. 4. Verification of maximum power transfer theorem for AC circuits. 5. Verification of Tellegen’s theorem for two networks of the same topology. 6. Study of DC transients in RL, RC and RLC circuits. 7. Study frequency response of various 1st order RL & RC networks. 8. Study transient and steady state response of a 2nd order circuit by varying its parameters. 9. Find Q Factor and Bandwidth of a Series and Parallel Resonance circuit. 10. Determination of open circuit (Z) and short circuit (Y) parameters. 11. Determination of hybrid (H) and transmission (ABCD) parameters. 12. Measure two port parameters of a twin-T network and study its frequency response.
+
+[[PAGE 85-86]]
+DATA STRUCTURES (Common to CSE, IT & allied branches, L-T-P-C: 3-0-0-3)
+Outcomes: CO1: Explain role of linear data structures in organizing and accessing data efficiently. CO2: Design, implement, and apply linked lists for dynamic data storage. CO3: Develop programs using stacks to handle recursive algorithms and manage program states. CO4: Apply queue-based algorithms for task scheduling and BFS, distinguish between deques and priority queues. CO5: Devise solutions to programming challenges involving stacks, queues, Trees. CO6: Recognize scenarios where hashing is advantageous and design hash-based solutions.
+UNIT I: Introduction to Linear Data Structures: Definition and importance, Abstract data types (ADTs) and implementation, Overview of time and space complexity analysis for linear data structures. Searching Techniques: Linear & Binary Search, Sorting Techniques: Bubble sort, Selection sort, Insertion Sort.
+UNIT II: Linked Lists: Singly linked lists: representation and operations, doubly linked lists and circular linked lists, Comparing arrays and linked lists, Applications of linked lists.
+UNIT III: Stacks: Properties and operations, implementing stacks using arrays and linked lists, Applications of stacks in expression evaluation, backtracking, reversing list etc.
+UNIT IV: Queues: Properties and operations, implementing queues using arrays and linked lists, Applications of queues in breadth-first search, scheduling, etc. Deques: Introduction to deques (double-ended queues), Operations on deques and their applications.
+UNIT V: Trees: Introduction to Trees, Binary Search Tree – Insertion, Deletion & Traversal. Hashing: Brief introduction to hashing and hash functions, Collision resolution techniques: chaining and open addressing, Hash tables: basic implementation and operations, Applications of hashing in unique identifier generation, caching, etc.
+Textbooks: 1. Data Structures and algorithm analysis in C, Mark Allen Weiss, Pearson, 2nd Ed. 2. Fundamentals of data structures in C, Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed, Silicon Press, 2008.
+
+[[PAGE 87-88]]
+DATA STRUCTURES LAB (Common to CSE, IT & allied branches, L-T-P-C: 0-0-3-1.5)
+Outcomes: CO1-CO5 same as Data Structures theory (CO1-CO4, CO6).
+List of Experiments:
+- Exercise 1 (Array Manipulation): i) Reverse an array ii) C Programs for Searching – Linear & Binary Search iii) C Programs for Sorting – Bubble, Selection and Insertion Sort.
+- Exercise 2 (Linked List Implementation): i) Singly linked list insertion and deletion ii) Reverse a linked list iteratively and recursively iii) Linked list traversal and manipulation.
+- Exercise 3 (Linked List Applications): i) Detect and remove duplicates from a linked list ii) Represent polynomials and perform addition iii) Double-ended queue (deque) with essential operations.
+- Exercise 4 (Double Linked List Implementation): i) Doubly linked list operations ii) Circular linked list insertion, deletion, and traversal.
+- Exercise 5 (Stack Operations): i) Stack using arrays and linked lists ii) Evaluate a postfix expression using a stack iii) Check for balanced parentheses using a stack.
+- Exercise 6 (Queue Operations): i) Queue using arrays and linked lists ii) Simulate a simple printer queue system iii) Circular queues.
+- Exercise 7 (Stack and Queue Applications): i) Evaluate an infix expression and convert it to postfix using a stack ii) Determine whether a given string is a palindrome iii) Perform comparison and check for symmetry.
+- Exercise 8 (Binary Search Tree): i) Implementing a BST using Linked List ii) Traversing of BST.
+- Exercise 9 (Hashing): i) Implement a hash table with collision resolution techniques ii) Implement a simple cache using hashing.
+
+[[PAGE 89-90]]
+HEALTH AND WELLNESS, YOGA AND SPORTS (Common to All branches, L-T-P-C: 0-0-1-0.5)
+Outcomes: CO1: Understand importance of yoga and sports for Physical fitness and sound health. CO2: Demonstrate understanding of health-related fitness components. CO3: Compare and contrast activities that enhance health. CO4: Assess current personal fitness levels. CO5: Develop Positive Personality.
+UNIT I: Concept of health and fitness, Nutrition and Balanced diet, basic concept of immunity, Relationship between diet and fitness, Globalization and its impact on health, Body Mass Index (BMI) of all age groups. Activities: i) Organizing health awareness programmes in community ii) Preparation of health profile iii) Preparation of chart for balanced diet for all age groups.
+UNIT II: Concept of yoga, need and importance of yoga, origin and history of yoga in Indian context, classification of yoga, Physiological effects of Asanas - Pranayama and meditation, stress management and yoga, Mental health and yoga practice. Activities: Yoga practices – Asana, Kriya, Mudra, Bandha, Dhyana, Surya Namaskar.
+UNIT III: Concept of Sports and fitness, importance, fitness components, history of sports, Ancient and Modern Olympics, Asian games and Commonwealth games. Activities: i) Participation in one major game and one individual sport (Athletics, Volleyball, Basketball, Handball, Football, Badminton, Kabaddi, Kho-kho, Table tennis, Cricket etc.), Practicing general and specific warm up, aerobics ii) Practicing cardiorespiratory fitness, treadmill, run test, 9 min walk, skipping and running.
+Evaluation Guidelines: Evaluated for a total of 100 marks. Student selects 6 activities (minimum 01 activity per unit); each activity evaluated by concerned teacher for 15 marks (totalling 90 marks) + 10 marks viva voce.
+
+[[PAGE 91-92]]
+NSS/NCC/SCOUTS & GUIDES/COMMUNITY SERVICE (Common to All branches, L-T-P-C: 0-0-1-0.5)
+Outcomes: CO1: Understand importance of discipline, character and service motto. CO2: Solve societal issues by applying acquired knowledge. CO3: Explore human relationships by analyzing social problems. CO4: Determine to extend help for fellow beings and downtrodden people. CO5: Develop leadership skills and civic responsibilities.
+UNIT I Orientation: General Orientation on NSS/NCC/Scouts & Guides/Community Service activities, career guidance. Activities: i) Ice breaking sessions ii) Orientations programs for future plans/road map iii) Displaying success stories/motivational biopics iv) Talent show in singing patriotic songs/paintings.
+UNIT II Nature & Care: Activities: i) Best out of waste competition ii) Poster and signs making competition for environmental awareness iii) Recycling and environmental pollution article writing iv) Organising Zero-waste day v) Digital Environmental awareness via social media vi) Virtual demonstration of eco-friendly approaches for sustainable living vii) Summary on any book related to environmental issues.
+UNIT III Community Service: Activities: i) One Day Special Camp in a village (contacting leaders, survey, identification of problems, helping solve) ii) Awareness programs on Health-related issues (General, Mental, Spiritual Health, HIV/AIDS) iii) Consumer Awareness and legal provisions iv) Women Empowerment Programmes (Sexual Abuse, Adolescent Health, Population Education) v) Programmes in collaboration with local charities, NGOs.
+Evaluation Guidelines: Evaluated for a total of 100 marks. Student selects 6 activities (minimum 01 activity per unit); each activity evaluated by concerned teacher for 15 marks (totalling 90 marks) + 10 marks viva voce. Signed by Dean IQAC & Principal (Date: 05/10/2023).
+</r23_document>
