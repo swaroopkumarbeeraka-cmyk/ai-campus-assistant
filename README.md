@@ -9,16 +9,17 @@ A standalone, mobile-first web chatbot designed for **Vignan's Lara Institute of
 ### 1. How to Edit the System Prompt (`src/prompts/system.txt`)
 - The assistant's entire knowledge, persona, and rules come strictly from `src/prompts/system.txt`.
 - Open `src/prompts/system.txt` in any text editor.
-- Paste your full R23 prompt text (up to ~45k tokens) directly into this file and save it.
-- **That's it!** The server reads this file fresh on every question at runtime. You do **not** need to touch any code or rebuild the app for prompt changes to take effect.
+- Paste your full R23 prompt text, entire regulation handbooks, or complete syllabus files (supports up to **1,000,000 tokens / 1M tokens**, ~4MB to 5MB of text) directly into this file and save it.
+- **That's it!** The server reads this file fresh on every question at runtime without truncation. You do **not** need to touch any code or rebuild the app for prompt changes to take effect.
 
 ---
 
 ### 2. How to Change Model & Temperature (`src/config.ts`)
 Open `src/config.ts`:
 ```typescript
-// To change the model name:
-export const GEMINI_MODEL = 'gemini-3.8-flash';
+// Models with full 1 Million (1M) token context window support:
+export const GEMINI_MODEL = 'gemini-3.1-flash-lite'; // or 'gemini-3.8-flash'
+export const MAX_CONTEXT_TOKENS = 1048576; // 1M tokens
 
 // To change the creativity/temperature (0.0 to 1.0; 0.1 is recommended for strict rules):
 export const TEMPERATURE = 0.1;

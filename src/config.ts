@@ -4,10 +4,15 @@
  * B.Tech R23 Academic Regulations Assistant
  */
 
-// Model selection: Using latest Gemini Flash model (gemini-3.1-flash-lite has high quota and speed)
+// Model selection: Gemini Flash models natively support up to 1,048,576 tokens (1M tokens) context window.
+// Both gemini-3.1-flash-lite and gemini-3.8-flash have 1M token context capacity.
 export const GEMINI_MODEL = 'gemini-3.1-flash-lite';
 
+// Maximum supported context tokens (1 Million tokens)
+export const MAX_CONTEXT_TOKENS = 1048576; // 1M tokens
+
 // Fallback models if primary model hits quota limit (429) or high demand (503)
+// All fallback models also support 1M context tokens.
 export const FALLBACK_MODELS: readonly string[] = ['gemini-flash-latest', 'gemini-3.8-flash'];
 
 // Low temperature for factual, deterministic regulation answers

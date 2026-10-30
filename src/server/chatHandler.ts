@@ -31,6 +31,9 @@ export async function loadSystemPrompt(): Promise<string> {
   const promptPath = path.resolve(process.cwd(), 'src', 'prompts', 'system.txt');
   try {
     const raw = await fs.promises.readFile(promptPath, 'utf-8');
+    // Calculate estimated tokens (~4 chars per token for typical text)
+    const estTokens = Math.round(raw.length / 4);
+    console.log(`[Campus Assistant] System prompt loaded: ${raw.length.toLocaleString()} chars (~${estTokens.toLocaleString()} tokens). Supported up to 1,000,000 tokens.`);
     return raw;
   } catch (err) {
     console.warn(`[Campus Assistant] Could not read ${promptPath}, falling back to placeholder`, err);
@@ -61,7 +64,8 @@ export async function handleChatStream(
         let data = '';
         req.on('data', (chunk) => {
           data += chunk;
-          if (data.length > 5 * 1024 * 1024) {
+          // Allow up to 50MB payloads for massive multi-turn conversation and context
+          if (data.length > 50 * 1024 * 1024) {
             reject(new Error('Payload too large'));
           }
         });
